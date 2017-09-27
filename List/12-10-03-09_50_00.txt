@@ -1,0 +1,210 @@
+Arviola#120034368#Husch
+Ashe#120035363#Husch
+Ashe#120035465#Husch
+Bales#120034918#Husch
+Barnstorf#120034357#Husch
+Barnstorf#120034592#Husch
+Barrows#120034965#Husch
+Bass#120035554#Husch
+Beam#120034534#Husch
+Beam#120034552#Husch
+Behun#120034674#Husch
+Belew#4867#Husch
+Belsches#120035457#Husch
+Bethea#120034623#Husch
+Boston#120034435#Husch
+Bowles#120035506#Husch
+Bowser#120035195#Husch
+Bowser#120035618#Husch
+Brooks#120035546#Husch
+Brooks-Johnson#120035558#Husch
+Buffin#12003#4522#Husch
+Buffin#120034768#Husch
+Buffin#120035460#Husch
+Burns#120034681#Husch
+Burton#120035647#Husch
+Cagley#120035659#Husch
+Campbell#120034269#Husch
+Campbell#120034448#Husch
+Campbell#120035066#Husch
+Campbell#120035139#Husch
+Campbell#120035509#Husch
+Cerro#120035664#Husch
+Coleman#120034931#Husch
+Coleman#120034987#Husch
+Cone#120035184#Husch
+Congiu#120034667#Thornton
+Cosgrove#120035713#Husch
+Cottee#120034829#Husch
+Council#120034706#Husch
+Craft#120034896#Husch.
+DeMarco#120035047#Husch
+DeMarco#120035061#Husch
+DeMarco#1210035046#Husch
+Dee#120035133#Husch
+Deyerle#120034595#Husch
+Dismond#120035124#Husch
+Dismond#120035131#Husch
+Ferebee#120035531#Husch
+Ferlemann#120035650#Husch
+Fields#120034272#Husch
+Finneran#120035143#Husch
+Finneran#120035283#Husch
+Finneran#120035563#Husch
+Finneran#120035658#husch
+Finneran#120035724#Husch
+Friedt#120034376#Husch
+Friend|120032504|jones
+Frost#120034710#Husch
+Frost#120035057#Husch
+From root Wed Oct  3 09:52:02 2012
+To: jeffery.l.shipman@nasa.gov
+Subject: Graphix Archive - Errors
+
+12_10_03 09:50:00 Running script as root
+12_10_03 09:50:00 59 Directories to Process
+12_10_03 09:50:00 number of dir:  59
+12_10_03 09:50:00 touch files created
+12_10_03 09:50:00 trap
+12_10_03 09:50:00 removed locks on all files within uprocessed
+12_10_03 09:50:00 processing Arviola#120034368#Husch
+12_10_03 09:50:00 j: arviola#120034368#husch
+12_10_03 09:50:00 firstLetter: A
+12_10_03 09:50:00 j: rviola#120034368#husch
+12_10_03 09:50:00 old dir /Volumes/Repository/_unprocessed/Arviola#120034368#husch
+12_10_03 09:50:00 reposidtory dir A
+12_10_03 09:50:00 fullpath /Volumes/Repository/currentRepository/A/Arviola#120034368#husch
+12_10_03 09:50:00 A
+12_10_03 09:50:00 Arviola#120034368#husch.tar.gz
+12_10_03 09:50:00 Arviola#120034368#husch.ls
+12_10_03 09:50:00 masmkdir of A
+12_10_03 09:50:07 tar and put of Arviola#120034368#husch for archive1
+12_10_03 09:50:07 tar and put of of Arviola#120034368#husch.ls for archive1
+12_10_03 09:50:09 tar and put of Arviola#120034368#husch for archive2
+12_10_03 09:50:10 tar and put of Arviola#120034368#husch.ls for archive2
+12_10_03 09:50:13 tar and put of Arviola#120034368#husch for archive3
+12_10_03 09:50:13 tar and put of Arviola#120034368#husch.ls for archive3
+12_10_03 09:50:13 /Volumes/Repository/_unprocessed/Arviola#120034368#husch  /Volumes/Repository/currentRepository/A/Arviola#120034368#husch for archive3
+12_10_03 09:50:13 processing Ashe#120035363#Husch
+12_10_03 09:50:13 j: ashe#120035363#husch
+12_10_03 09:50:13 firstLetter: A
+12_10_03 09:50:13 j: she#120035363#husch
+12_10_03 09:50:13 old dir /Volumes/Repository/_unprocessed/Ashe#120035363#husch
+12_10_03 09:50:13 reposidtory dir A
+12_10_03 09:50:13 fullpath /Volumes/Repository/currentRepository/A/Ashe#120035363#husch
+12_10_03 09:50:13 A
+12_10_03 09:50:13 Ashe#120035363#husch.tar.gz
+12_10_03 09:50:13 Ashe#120035363#husch.ls
+12_10_03 09:50:13 masmkdir of A
+12_10_03 09:50:19 tar and put of Ashe#120035363#husch for archive1
+12_10_03 09:50:19 tar and put of of Ashe#120035363#husch.ls for archive1
+12_10_03 09:50:21 tar and put of Ashe#120035363#husch for archive2
+12_10_03 09:50:21 tar and put of Ashe#120035363#husch.ls for archive2
+12_10_03 09:50:23 tar and put of Ashe#120035363#husch for archive3
+12_10_03 09:50:24 tar and put of Ashe#120035363#husch.ls for archive3
+12_10_03 09:50:24 /Volumes/Repository/_unprocessed/Ashe#120035363#husch  /Volumes/Repository/currentRepository/A/Ashe#120035363#husch for archive3
+12_10_03 09:50:24 processing Ashe#120035465#Husch
+12_10_03 09:50:24 j: ashe#120035465#husch
+12_10_03 09:50:24 firstLetter: A
+12_10_03 09:50:24 j: she#120035465#husch
+12_10_03 09:50:24 old dir /Volumes/Repository/_unprocessed/Ashe#120035465#husch
+12_10_03 09:50:24 reposidtory dir A
+12_10_03 09:50:24 fullpath /Volumes/Repository/currentRepository/A/Ashe#120035465#husch
+12_10_03 09:50:24 A
+12_10_03 09:50:24 Ashe#120035465#husch.tar.gz
+12_10_03 09:50:24 Ashe#120035465#husch.ls
+12_10_03 09:50:24 masmkdir of A
+12_10_03 09:50:33 tar and put of Ashe#120035465#husch for archive1
+12_10_03 09:50:33 tar and put of of Ashe#120035465#husch.ls for archive1
+12_10_03 09:50:37 tar and put of Ashe#120035465#husch for archive2
+12_10_03 09:50:38 tar and put of Ashe#120035465#husch.ls for archive2
+12_10_03 09:50:42 tar and put of Ashe#120035465#husch for archive3
+12_10_03 09:50:43 tar and put of Ashe#120035465#husch.ls for archive3
+12_10_03 09:50:43 /Volumes/Repository/_unprocessed/Ashe#120035465#husch  /Volumes/Repository/currentRepository/A/Ashe#120035465#husch for archive3
+12_10_03 09:50:43 processing Bales#120034918#Husch
+12_10_03 09:50:43 j: bales#120034918#husch
+12_10_03 09:50:43 firstLetter: B
+12_10_03 09:50:43 j: ales#120034918#husch
+12_10_03 09:50:43 old dir /Volumes/Repository/_unprocessed/Bales#120034918#husch
+12_10_03 09:50:43 reposidtory dir B
+12_10_03 09:50:43 fullpath /Volumes/Repository/currentRepository/B/Bales#120034918#husch
+12_10_03 09:50:43 B
+12_10_03 09:50:43 Bales#120034918#husch.tar.gz
+12_10_03 09:50:43 Bales#120034918#husch.ls
+12_10_03 09:50:43 masmkdir of B
+12_10_03 09:50:50 tar and put of Bales#120034918#husch for archive1
+12_10_03 09:50:51 tar and put of of Bales#120034918#husch.ls for archive1
+12_10_03 09:50:55 tar and put of Bales#120034918#husch for archive2
+12_10_03 09:50:55 tar and put of Bales#120034918#husch.ls for archive2
+12_10_03 09:50:58 tar and put of Bales#120034918#husch for archive3
+12_10_03 09:50:59 tar and put of Bales#120034918#husch.ls for archive3
+12_10_03 09:50:59 /Volumes/Repository/_unprocessed/Bales#120034918#husch  /Volumes/Repository/currentRepository/B/Bales#120034918#husch for archive3
+12_10_03 09:50:59 processing Barnstorf#120034357#Husch
+12_10_03 09:50:59 j: barnstorf#120034357#husch
+12_10_03 09:50:59 firstLetter: B
+12_10_03 09:50:59 j: arnstorf#120034357#husch
+12_10_03 09:50:59 old dir /Volumes/Repository/_unprocessed/Barnstorf#120034357#husch
+12_10_03 09:50:59 reposidtory dir B
+12_10_03 09:50:59 fullpath /Volumes/Repository/currentRepository/B/Barnstorf#120034357#husch
+12_10_03 09:50:59 B
+12_10_03 09:50:59 Barnstorf#120034357#husch.tar.gz
+12_10_03 09:50:59 Barnstorf#120034357#husch.ls
+12_10_03 09:50:59 masmkdir of B
+12_10_03 09:51:10 tar and put of Barnstorf#120034357#husch for archive1
+12_10_03 09:51:11 tar and put of of Barnstorf#120034357#husch.ls for archive1
+12_10_03 09:51:17 tar and put of Barnstorf#120034357#husch for archive2
+12_10_03 09:51:18 tar and put of Barnstorf#120034357#husch.ls for archive2
+12_10_03 09:51:25 tar and put of Barnstorf#120034357#husch for archive3
+12_10_03 09:51:25 tar and put of Barnstorf#120034357#husch.ls for archive3
+12_10_03 09:51:25 /Volumes/Repository/_unprocessed/Barnstorf#120034357#husch  /Volumes/Repository/currentRepository/B/Barnstorf#120034357#husch for archive3
+12_10_03 09:51:25 processing Barnstorf#120034592#Husch
+12_10_03 09:51:25 j: barnstorf#120034592#husch
+12_10_03 09:51:25 firstLetter: B
+12_10_03 09:51:25 j: arnstorf#120034592#husch
+12_10_03 09:51:25 old dir /Volumes/Repository/_unprocessed/Barnstorf#120034592#husch
+12_10_03 09:51:25 reposidtory dir B
+12_10_03 09:51:25 fullpath /Volumes/Repository/currentRepository/B/Barnstorf#120034592#husch
+12_10_03 09:51:25 B
+12_10_03 09:51:25 Barnstorf#120034592#husch.tar.gz
+12_10_03 09:51:25 Barnstorf#120034592#husch.ls
+12_10_03 09:51:25 masmkdir of B
+12_10_03 09:51:35 tar and put of Barnstorf#120034592#husch for archive1
+12_10_03 09:51:36 tar and put of of Barnstorf#120034592#husch.ls for archive1
+12_10_03 09:51:41 tar and put of Barnstorf#120034592#husch for archive2
+12_10_03 09:51:42 tar and put of Barnstorf#120034592#husch.ls for archive2
+12_10_03 09:51:47 tar and put of Barnstorf#120034592#husch for archive3
+12_10_03 09:51:48 tar and put of Barnstorf#120034592#husch.ls for archive3
+12_10_03 09:51:48 /Volumes/Repository/_unprocessed/Barnstorf#120034592#husch  /Volumes/Repository/currentRepository/B/Barnstorf#120034592#husch for archive3
+12_10_03 09:51:48 processing Barrows#120034965#Husch
+12_10_03 09:51:48 j: barrows#120034965#husch
+12_10_03 09:51:48 firstLetter: B
+12_10_03 09:51:48 j: arrows#120034965#husch
+12_10_03 09:51:48 old dir /Volumes/Repository/_unprocessed/Barrows#120034965#husch
+12_10_03 09:51:48 reposidtory dir B
+12_10_03 09:51:48 fullpath /Volumes/Repository/currentRepository/B/Barrows#120034965#husch
+12_10_03 09:51:48 B
+12_10_03 09:51:48 Barrows#120034965#husch.tar.gz
+12_10_03 09:51:48 Barrows#120034965#husch.ls
+12_10_03 09:51:48 masmkdir of B
+12_10_03 09:51:54 tar and put of Barrows#120034965#husch for archive1
+12_10_03 09:51:55 tar and put of of Barrows#120034965#husch.ls for archive1
+12_10_03 09:51:57 tar and put of Barrows#120034965#husch for archive2
+12_10_03 09:51:58 tar and put of Barrows#120034965#husch.ls for archive2
+12_10_03 09:52:00 tar and put of Barrows#120034965#husch for archive3
+12_10_03 09:52:01 WARN: masput ls error for archive3
+rcmd: getaddrinfo: nodename nor servname provided, or not known
+12_10_03 09:52:01 tar and put of Barrows#120034965#husch.ls for archive3
+12_10_03 09:52:01 /Volumes/Repository/_unprocessed/Barrows#120034965#husch  /Volumes/Repository/currentRepository/B/Barrows#120034965#husch for archive3
+12_10_03 09:52:02 processing Bass#120035554#Husch
+12_10_03 09:52:02 j: bass#120035554#husch
+12_10_03 09:52:02 firstLetter: B
+12_10_03 09:52:02 j: ass#120035554#husch
+12_10_03 09:52:02 old dir /Volumes/Repository/_unprocessed/Bass#120035554#husch
+12_10_03 09:52:02 reposidtory dir B
+12_10_03 09:52:02 fullpath /Volumes/Repository/currentRepository/B/Bass#120035554#husch
+12_10_03 09:52:02 WARN: chown -R ladmin /Volumes/Repository/_unprocessed/Bass#120035554#husch
+12_10_03 09:52:02 holdDir  Bass#120035554#husch
+12_10_03 09:52:02 ABORT: chown -R ladmin /Volumes/Repository/_unprocessed/Bass#120035554#husch
+12_10_03 09:52:02 script executed in 122 seconds
+12_10_03 09:52:02 0 minutes 2 seconds
+

@@ -1,0 +1,704 @@
++ '[' jshipman = '' ']'
+++ date +%s
++ time_start=1269358893
++ WHOM=j.l.shipman@larc.nasa.gov
++ Subject=Graphix Archive - Directories List
++ Subject2=Graphix Archive - Errors
++ baseConfig=/Volumes/ServerHD/scripts/Archive/
++ baseList=/Volumes/ServerHD/scripts/Archive/List/
++ baseError=/Volumes/ServerHD/scripts/Archive/Error/
++ baseTemp=/Volumes/ServerHD/scripts/Archive/Temp/
++ baseLog=/Volumes/ServerHD/scripts/Archive/Log/
++ baseDirChange=/Volumes/ServerHD/scripts/Archive/DirChange/
++ base=/Volumes/Repository/currentRepository/
++ unprocessed=/Volumes/Repository/_unprocessed/
++ checkDirRun=baseTempnoDir.txt
++ archiveDirFileAZ=/Volumes/ServerHD/scripts/Archive/archiveFoldersAZ.txt
++ archiveDirFile=/Volumes/ServerHD/scripts/Archive/archiveFolders.txt
++ check=/Volumes/ServerHD/scripts/Archive/checkArchive
+++ date +%y-%m-%d-%T
+++ tr : _
++ archiveList=/Volumes/ServerHD/scripts/Archive/List/10-03-23-11_41_33.txt
+++ date +%y-%m-%d-%T
+++ tr : _
++ changeDirName=/Volumes/ServerHD/scripts/Archive/DirChange/10-03-23-11_41_33.txt
+++ date +%y-%m-%d-%T
+++ tr : _
++ logFile=/Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
++ touch /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ whoami
++ whoRunning=root
++ Log 'Running script as root'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:41:33 Running script as root'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:41:33 Running script as root
++ cd /Volumes/Repository/_unprocessed/
++ '[' 0 -ne 0 ']'
++ find /Volumes/Repository/_unprocessed/ -type d -maxdepth 1 -print
+++ wc -l baseTempnoDir.txt
+++ awk '{print $1}'
++ noline=2
+++ expr 2 - 1
++ numLine=1
++ '[' 1 == 0 ']'
++ Log '1 Directories to Process'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:41:33 1 Directories to Process'
+10_03_23 11:41:33 1 Directories to Process
++ Log 'number of dir:  1'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:41:34 number of dir:  1'
+10_03_23 11:41:34 number of dir:  1
++ '[' -e /Volumes/ServerHD/scripts/Archive/checkArchive ']'
++ touch /Volumes/ServerHD/scripts/Archive/checkArchive
++ touch /Volumes/ServerHD/scripts/Archive/List/10-03-23-11_41_33.txt
++ Log 'touch files created'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:41:34 touch files created'
+10_03_23 11:41:34 touch files created
++ trap 'rm /Volumes/ServerHD/scripts/Archive/checkArchive; rm baseTempnoDir.txt' 0 1 2 15
++ Log trap
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:41:34 trap'
+10_03_23 11:41:34 trap
++ /bin/chmod 770 /Volumes/Repository/_unprocessed/
++ '[' 0 -ne 0 ']'
++ ls /Volumes/Repository/_unprocessed/
++ sort /Volumes/ServerHD/scripts/Archive/archiveFolders.txt
++ Log 'find of selected directories completed'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:41:34 find of selected directories completed'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:41:34 find of selected directories completed
++ chflags -R nouchg /Volumes/Repository/_unprocessed/
++ Log 'ensure directories for processed work directories are set corretly'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:41:34 ensure directories for processed work directories are set corretly'
+10_03_23 11:41:34 ensure directories for processed work directories are set corretly
++ cat /Volumes/ServerHD/scripts/Archive/archiveFoldersAZ.txt
++ read i
+++ echo A
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/A
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/A
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/A
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/A
++ '[' 0 -ne 0 ']'
++ read i
+++ echo B
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/B
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/B
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/B
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/B
++ '[' 0 -ne 0 ']'
++ read i
+++ echo C
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/C
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/C
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/C
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/C
++ '[' 0 -ne 0 ']'
++ read i
+++ echo D
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/D
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/D
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/D
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/D
++ '[' 0 -ne 0 ']'
++ read i
+++ echo E
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/E
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/E
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/E
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/E
++ '[' 0 -ne 0 ']'
++ read i
+++ echo F
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/F
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/F
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/F
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/F
++ '[' 0 -ne 0 ']'
++ read i
+++ echo G
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/G
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/G
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/G
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/G
++ '[' 0 -ne 0 ']'
++ read i
+++ echo H
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/H
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/H
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/H
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/H
++ '[' 0 -ne 0 ']'
++ read i
+++ echo I
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/I
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/I
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/I
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/I
++ '[' 0 -ne 0 ']'
++ read i
+++ echo J
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/J
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/J
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/J
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/J
++ '[' 0 -ne 0 ']'
++ read i
+++ echo K
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/K
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/K
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/K
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/K
++ '[' 0 -ne 0 ']'
++ read i
+++ echo L
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/L
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/L
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/L
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/L
++ '[' 0 -ne 0 ']'
++ read i
+++ echo M
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/M
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/M
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/M
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/M
++ '[' 0 -ne 0 ']'
++ read i
+++ echo N
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/N
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/N
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/N
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/N
++ '[' 0 -ne 0 ']'
++ read i
+++ echo O
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/O
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/O
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/O
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/O
++ '[' 0 -ne 0 ']'
++ read i
+++ echo P
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/P
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/P
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/P
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/P
++ '[' 0 -ne 0 ']'
++ read i
+++ echo Q
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/Q
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/Q
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/Q
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/Q
++ '[' 0 -ne 0 ']'
++ read i
+++ echo R
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/R
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/R
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/R
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/R
++ '[' 0 -ne 0 ']'
++ read i
+++ echo S
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/S
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/S
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/S
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/S
++ '[' 0 -ne 0 ']'
++ read i
+++ echo T
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/T
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/T
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/T
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/T
++ '[' 0 -ne 0 ']'
++ read i
+++ echo U
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/U
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/U
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/U
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/U
++ '[' 0 -ne 0 ']'
++ read i
+++ echo V
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/V
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/V
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/V
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/V
++ '[' 0 -ne 0 ']'
++ read i
+++ echo W
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/W
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/W
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/W
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/W
++ '[' 0 -ne 0 ']'
++ read i
+++ echo X
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/X
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/X
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/X
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/X
++ '[' 0 -ne 0 ']'
++ read i
+++ echo Y
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/Y
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/Y
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/Y
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/Y
++ '[' 0 -ne 0 ']'
++ read i
+++ echo Z
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/currentRepository/Z
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/currentRepository/Z
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 770 /Volumes/Repository/currentRepository/Z
++ '[' 0 -ne 0 ']'
++ /bin/chmod 750 /Volumes/Repository/currentRepository/Z
++ '[' 0 -ne 0 ']'
++ read i
++ cat /Volumes/ServerHD/scripts/Archive/List/10-03-23-11_41_33.txt
++ read i
+++ echo 'Cherry|120033183|Husch'
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ Log 'processing Cherry|120033183|Husch'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 processing Cherry|120033183|Husch'
+10_03_23 11:42:49 processing Cherry|120033183|Husch
+++ echo 'Cherry|120033183|Husch'
+++ sed 's/ //g'
++ j=Cherry|120033183|Husch
++ '[' '/Volumes/Repository/_unprocessed/Cherry|120033183|Husch' '!=' '/Volumes/Repository/_unprocessed/Cherry|120033183|Husch' ']'
++ oldDir=/Volumes/Repository/_unprocessed/Cherry|120033183|Husch
+++ echo 'Cherry|120033183|Husch'
+++ cut -c1
+++ tr a-z A-Z
++ reposDir=C
++ Log 'old dir /Volumes/Repository/_unprocessed/Cherry|120033183|Husch'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 old dir /Volumes/Repository/_unprocessed/Cherry|120033183|Husch'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:49 old dir /Volumes/Repository/_unprocessed/Cherry|120033183|Husch
++ Log 'reposidtory dir C'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 reposidtory dir C'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:49 reposidtory dir C
++ Log 'fullpath /Volumes/Repository/currentRepository/C/Cherry|120033183|Husch'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 fullpath /Volumes/Repository/currentRepository/C/Cherry|120033183|Husch'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:49 fullpath /Volumes/Repository/currentRepository/C/Cherry|120033183|Husch
++ changeName=0
++ '[' -d '/Volumes/Repository/currentRepository/C/Cherry|120033183|Husch' ']'
++ j=Cherry|120033183|Husch_C
++ Log 'j  Cherry|120033183|Husch_C'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 j  Cherry|120033183|Husch_C'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:49 j  Cherry|120033183|Husch_C
++ Log 'fullpath /Volumes/Repository/currentRepository/C/Cherry|120033183|Husch_C'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 fullpath /Volumes/Repository/currentRepository/C/Cherry|120033183|Husch_C'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:49 fullpath /Volumes/Repository/currentRepository/C/Cherry|120033183|Husch_C
++ changeName=1
++ '[' -d '/Volumes/Repository/currentRepository/C/Cherry|120033183|Husch_C' ']'
++ j=Cherry|120033183|Husch_C_C
++ Log 'j  Cherry|120033183|Husch_C_C'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 j  Cherry|120033183|Husch_C_C'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:49 j  Cherry|120033183|Husch_C_C
++ Log 'fullpath /Volumes/Repository/currentRepository/C/Cherry|120033183|Husch_C_C'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 fullpath /Volumes/Repository/currentRepository/C/Cherry|120033183|Husch_C_C'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:49 fullpath /Volumes/Repository/currentRepository/C/Cherry|120033183|Husch_C_C
++ changeName=1
++ '[' -d '/Volumes/Repository/currentRepository/C/Cherry|120033183|Husch_C_C' ']'
++ '[' 1 -eq 1 ']'
++ '[' -d '/Volumes/Repository/_unprocessed/Cherry|120033183|Husch_C_C' ']'
++ '[' '/Volumes/Repository/_unprocessed/Cherry|120033183|Husch' '!=' '/Volumes/Repository/_unprocessed/Cherry|120033183|Husch_C_C' ']'
++ mv '/Volumes/Repository/_unprocessed/Cherry|120033183|Husch' '/Volumes/Repository/_unprocessed/Cherry|120033183|Husch_C_C'
++ '[' 0 -ne 0 ']'
++ /usr/sbin/chown -R admin '/Volumes/Repository/_unprocessed/Cherry|120033183|Husch_C_C'
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics '/Volumes/Repository/_unprocessed/Cherry|120033183|Husch_C_C'
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 750 '/Volumes/Repository/_unprocessed/Cherry|120033183|Husch_C_C'
++ '[' 0 -ne 0 ']'
+++ echo 'Cherry|120033183|Husch_C_C'
+++ cut -c1
+++ tr a-z A-Z
++ dmss_dir=C
+++ echo C
+++ egrep '^\.'
++ dmss_dirTest=
++ '[' '' '!=' . ']'
+++ pwd
++ Log 'cwd="/Volumes/Repository/_unprocessed"'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 cwd="/Volumes/Repository/_unprocessed"'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:49 cwd="/Volumes/Repository/_unprocessed"
++ Log C
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 C'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:49 C
++ local_dir=Cherry|120033183|Husch_C_C
+++ echo 'Cherry|120033183|Husch_C_C'
+++ sed 's/|/#/g'
++ dmss_tar=Cherry#120033183#Husch_C_C.tar.gz
+++ echo 'Cherry|120033183|Husch_C_C'
+++ sed 's/|/#/g'
++ dmss_ls=Cherry#120033183#Husch_C_C.ls
++ Log Cherry#120033183#Husch_C_C.tar.gz
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 Cherry#120033183#Husch_C_C.tar.gz'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:49 Cherry#120033183#Husch_C_C.tar.gz
++ Log Cherry#120033183#Husch_C_C.ls
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 Cherry#120033183#Husch_C_C.ls'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:49 Cherry#120033183#Husch_C_C.ls
++ Log 'masmkdir of C'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:49 masmkdir of C'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:49 masmkdir of C
++ /usr/local/bin/masmkdir -p @jshipman/archives/graphix.larc.nasa.gov/C
++ '[' 0 -ne 0 -o -s /Volumes/ServerHD/scripts/Archive/Temp/stderr ']'
++ tar -cvf - 'Cherry|120033183|Husch_C_C'
++ gzip -1
++ /usr/local/bin/masput - @jshipman/archives/graphix.larc.nasa.gov/C/Cherry#120033183#Husch_C_C.tar.gz
++ '[' 0 -ne 0 -o -s /Volumes/ServerHD/scripts/Archive/Temp/stderr ']'
++ Log 'tar of Cherry|120033183|Husch_C_C'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:55 tar of Cherry|120033183|Husch_C_C'
+10_03_23 11:42:55 tar of Cherry|120033183|Husch_C_C
++ /usr/local/bin/masput /Volumes/ServerHD/scripts/Archive//Temp/Cherry#120033183#Husch_C_C.ls @jshipman/archives/graphix.larc.nasa.gov/C/Cherry#120033183#Husch_C_C.ls
++ '[' 0 -ne 0 -o -s /Volumes/ServerHD/scripts/Archive/Temp/stderr ']'
++ Log 'put of Cherry#120033183#Husch_C_C.ls'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:55 put of Cherry#120033183#Husch_C_C.ls'
+10_03_23 11:42:55 put of Cherry#120033183#Husch_C_C.ls
++ rm /Volumes/ServerHD/scripts/Archive//Temp/Cherry#120033183#Husch_C_C.ls
++ Log '/Volumes/Repository/_unprocessed/Cherry|120033183|Husch_C_C  /Volumes/Repository/currentRepository/C/Cherry|120033183|Husch_C_C'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:55 /Volumes/Repository/_unprocessed/Cherry|120033183|Husch_C_C  /Volumes/Repository/currentRepository/C/Cherry|120033183|Husch_C_C'
+10_03_23 11:42:55 /Volumes/Repository/_unprocessed/Cherry|120033183|Husch_C_C  /Volumes/Repository/currentRepository/C/Cherry|120033183|Husch_C_C
++ mv '/Volumes/Repository/_unprocessed/Cherry|120033183|Husch_C_C' '/Volumes/Repository/currentRepository/C/Cherry|120033183|Husch_C_C'
++ '[' 0 -ne 0 ']'
++ read i
+++ echo baseTempnoDir.txt
+++ egrep '^\.'
++ iTest=
++ '[' '' '!=' . ']'
++ Log 'processing baseTempnoDir.txt'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:56 processing baseTempnoDir.txt'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:56 processing baseTempnoDir.txt
+++ echo baseTempnoDir.txt
+++ sed 's/ //g'
++ j=baseTempnoDir.txt
++ '[' /Volumes/Repository/_unprocessed/baseTempnoDir.txt '!=' /Volumes/Repository/_unprocessed/baseTempnoDir.txt ']'
++ oldDir=/Volumes/Repository/_unprocessed/baseTempnoDir.txt
+++ echo baseTempnoDir.txt
+++ cut -c1
+++ tr a-z A-Z
++ reposDir=B
++ Log 'old dir /Volumes/Repository/_unprocessed/baseTempnoDir.txt'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:56 old dir /Volumes/Repository/_unprocessed/baseTempnoDir.txt'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:56 old dir /Volumes/Repository/_unprocessed/baseTempnoDir.txt
++ Log 'reposidtory dir B'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:56 reposidtory dir B'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:56 reposidtory dir B
++ Log 'fullpath /Volumes/Repository/currentRepository/B/baseTempnoDir.txt'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:56 fullpath /Volumes/Repository/currentRepository/B/baseTempnoDir.txt'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:56 fullpath /Volumes/Repository/currentRepository/B/baseTempnoDir.txt
++ changeName=0
++ '[' -d /Volumes/Repository/currentRepository/B/baseTempnoDir.txt ']'
++ '[' 0 -eq 1 ']'
++ '[' /Volumes/Repository/_unprocessed/baseTempnoDir.txt '!=' /Volumes/Repository/_unprocessed/baseTempnoDir.txt ']'
++ /usr/sbin/chown -R admin /Volumes/Repository/_unprocessed/baseTempnoDir.txt
++ '[' 0 -ne 0 ']'
++ /usr/bin/chgrp -R Graphics /Volumes/Repository/_unprocessed/baseTempnoDir.txt
++ '[' 0 -ne 0 ']'
++ /bin/chmod -R 750 /Volumes/Repository/_unprocessed/baseTempnoDir.txt
++ '[' 0 -ne 0 ']'
+++ echo baseTempnoDir.txt
+++ cut -c1
+++ tr a-z A-Z
++ dmss_dir=B
+++ echo B
+++ egrep '^\.'
++ dmss_dirTest=
++ '[' '' '!=' . ']'
+++ pwd
++ Log 'cwd="/Volumes/Repository/_unprocessed"'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:56 cwd="/Volumes/Repository/_unprocessed"'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:56 cwd="/Volumes/Repository/_unprocessed"
++ Log B
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:56 B'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:56 B
++ local_dir=baseTempnoDir.txt
+++ echo baseTempnoDir.txt
+++ sed 's/|/#/g'
++ dmss_tar=baseTempnoDir.txt.tar.gz
+++ echo baseTempnoDir.txt
+++ sed 's/|/#/g'
++ dmss_ls=baseTempnoDir.txt.ls
++ Log baseTempnoDir.txt.tar.gz
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:56 baseTempnoDir.txt.tar.gz'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:56 baseTempnoDir.txt.tar.gz
++ Log baseTempnoDir.txt.ls
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:56 baseTempnoDir.txt.ls'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:56 baseTempnoDir.txt.ls
++ Log 'masmkdir of B'
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:56 masmkdir of B'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+10_03_23 11:42:56 masmkdir of B
++ /usr/local/bin/masmkdir -p @jshipman/archives/graphix.larc.nasa.gov/B
++ '[' 0 -ne 0 -o -s /Volumes/ServerHD/scripts/Archive/Temp/stderr ']'
++ tar -cvf - baseTempnoDir.txt
++ gzip -1
++ /usr/local/bin/masput - @jshipman/archives/graphix.larc.nasa.gov/B/baseTempnoDir.txt.tar.gz
++ '[' 0 -ne 0 -o -s /Volumes/ServerHD/scripts/Archive/Temp/stderr ']'
++ Log 'tar of baseTempnoDir.txt'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:59 tar of baseTempnoDir.txt'
+10_03_23 11:42:59 tar of baseTempnoDir.txt
++ /usr/local/bin/masput /Volumes/ServerHD/scripts/Archive//Temp/baseTempnoDir.txt.ls @jshipman/archives/graphix.larc.nasa.gov/B/baseTempnoDir.txt.ls
++ '[' 0 -ne 0 -o -s /Volumes/ServerHD/scripts/Archive/Temp/stderr ']'
++ Log 'put of baseTempnoDir.txt.ls'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:42:59 put of baseTempnoDir.txt.ls'
+10_03_23 11:42:59 put of baseTempnoDir.txt.ls
++ rm /Volumes/ServerHD/scripts/Archive//Temp/baseTempnoDir.txt.ls
++ Log '/Volumes/Repository/_unprocessed/baseTempnoDir.txt  /Volumes/Repository/currentRepository/B/baseTempnoDir.txt'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:43:00 /Volumes/Repository/_unprocessed/baseTempnoDir.txt  /Volumes/Repository/currentRepository/B/baseTempnoDir.txt'
+10_03_23 11:43:00 /Volumes/Repository/_unprocessed/baseTempnoDir.txt  /Volumes/Repository/currentRepository/B/baseTempnoDir.txt
++ mv /Volumes/Repository/_unprocessed/baseTempnoDir.txt /Volumes/Repository/currentRepository/B/baseTempnoDir.txt
++ '[' 0 -ne 0 ']'
++ read i
+++ date +%s
++ time_end=1269358980
++ time_elapsed=87
++ Log 'script executed in 87 seconds'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:43:00 script executed in 87 seconds'
+10_03_23 11:43:00 script executed in 87 seconds
++ sec=87
++ min=1
++ hours=0
++ minDisplay=0
++ '[' 0 -ne 0 ']'
++ Log '1 minutes 87 seconds'
++ tee -a /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
+++ date '+%y_%m_%d %T'
++ echo '10_03_23 11:43:00 1 minutes 87 seconds'
+10_03_23 11:43:00 1 minutes 87 seconds
++ '[' -s /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt ']'
++ cat /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
++ grep -iq WARN
++ cat /Volumes/ServerHD/scripts/Archive/Log/10-03-23-11_41_33.txt
++ grep -iq ABORT
++ /usr/bin/mail -s 'Graphix Archive - Directories List' j.l.shipman@larc.nasa.gov /Volumes/ServerHD/scripts/Archive/List/10-03-23-11_41_33.txt
++ exit
++ rm /Volumes/ServerHD/scripts/Archive/checkArchive
++ rm baseTempnoDir.txt
+rm: baseTempnoDir.txt: No such file or directory

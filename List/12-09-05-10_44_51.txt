@@ -1,0 +1,14 @@
+From root Wed Sep  5 10:44:51 2012
+To: jeffery.l.shipman@nasa.gov
+Subject: Graphix Archive - Directories List
+
+12_09_05 10:44:51 Running script as root
+12_09_05 10:44:51 28 Directories to Process
+12_09_05 10:44:51 number of dir:  28
+12_09_05 10:44:51 touch files created
+12_09_05 10:44:51 trap
+12_09_05 10:44:51 find of selected directories completed
+12_09_05 10:44:51 removed locks on all files within uprocessed
+12_09_05 10:44:51 script executed in 0 seconds
+12_09_05 10:44:51 0 minutes 0 seconds
+

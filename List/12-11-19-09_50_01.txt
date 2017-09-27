@@ -1,0 +1,35 @@
+patterson#120035769#thornton
+From root Mon Nov 19 09:51:04 2012
+To: jeffery.l.shipman@nasa.gov
+Subject: Graphix Archive - Directories List
+
+12_11_19 09:50:01     numToDelete:  1
+12_11_19 09:50:01     numTail:  5
+12_11_19 09:50:01 fullPathLog:  /Volumes/ServerHD/scripts/Archive/Log/12-11-08-09_50_00.txt
+12_11_19 09:50:01 Running script as root
+12_11_19 09:50:01 1 Directories to Process
+12_11_19 09:50:01 number of dir:  1
+12_11_19 09:50:01 touch files created
+12_11_19 09:50:01 trap
+12_11_19 09:50:01 removed locks on all files within uprocessed
+12_11_19 09:50:01 processing patterson#120035769#thornton
+12_11_19 09:50:01 j: patterson#120035769#thornton
+12_11_19 09:50:01 firstLetter: P
+12_11_19 09:50:01 j: atterson#120035769#thornton
+12_11_19 09:50:01 old dir /Volumes/Repository/_unprocessed/Patterson#120035769#thornton
+12_11_19 09:50:01 reposidtory dir P
+12_11_19 09:50:01 fullpath /Volumes/Repository/currentRepository/P/Patterson#120035769#thornton
+12_11_19 09:50:01 P
+12_11_19 09:50:01 Patterson#120035769#thornton.tar.gz
+12_11_19 09:50:01 Patterson#120035769#thornton.ls
+12_11_19 09:50:01 masmkdir of P
+12_11_19 09:50:29 tar and put of Patterson#120035769#thornton for archive1
+12_11_19 09:50:29 tar and put of of Patterson#120035769#thornton.ls for archive1
+12_11_19 09:50:46 tar and put of Patterson#120035769#thornton for archive2
+12_11_19 09:50:46 tar and put of Patterson#120035769#thornton.ls for archive2
+12_11_19 09:51:04 tar and put of Patterson#120035769#thornton for archive3
+12_11_19 09:51:04 tar and put of Patterson#120035769#thornton.ls for archive3
+12_11_19 09:51:04 /Volumes/Repository/_unprocessed/Patterson#120035769#thornton  /Volumes/Repository/currentRepository/P/Patterson#120035769#thornton for archive3
+12_11_19 09:51:04 script executed in 63 seconds
+12_11_19 09:51:04 0 minutes 3 seconds
+

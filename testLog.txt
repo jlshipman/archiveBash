@@ -1,0 +1,9 @@
+10_01_11 12:10:59 Running script as root
+10_01_11 12:10:59 1 Directories to Process
+10_01_11 12:10:59 number of dir:  1
+10_01_11 12:10:59 touch files created
+10_01_11 12:10:59 trap
+10_01_11 12:11:00 find of selected directories completed
+10_01_11 12:11:00 finished - directories are set corretly
+10_01_11 12:11:00 processing .DS_Store
+10_01_11 12:11:00 processing Chambers|12002-2954|tesoro

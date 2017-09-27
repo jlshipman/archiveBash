@@ -1,0 +1,5 @@
+13_03_06 09:50:00     numToDelete:  1
+13_03_06 09:50:00     numTail:  5
+13_03_06 09:50:00 fullPathLog:  /Volumes/ServerHD/scripts/Archive/Log/13-02-22-09_50_01.txt
+13_03_06 09:50:00 Running script as root
+13_03_06 09:50:00 No Directories to Process

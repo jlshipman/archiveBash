@@ -1,0 +1,23 @@
+12_09_05 10:53:31 cat /Volumes/ServerHD/scripts/Archive/archiveFolders.txt
+From root Wed Sep  5 10:53:31 2012
+To: jeffery.l.shipman@nasa.gov
+Subject: Graphix Archive - Errors
+
+12_09_05 10:53:31 Running script as root
+12_09_05 10:53:31 28 Directories to Process
+12_09_05 10:53:31 number of dir:  28
+12_09_05 10:53:31 touch files created
+12_09_05 10:53:31 trap
+12_09_05 10:53:31 ls /Volumes/Repository/_unprocessed/ > /Volumes/ServerHD/scripts/Archive/archiveFolders.txt
+12_09_05 10:53:31 cat /Volumes/ServerHD/scripts/Archive/archiveFolders.txt
+12_09_05 10:53:31 /Volumes/ServerHD/scripts/Archive/archiveFolders2.txt > /Volumes/ServerHD/scripts/Archive/List/12-09-05-10_53_31.txt
+12_09_05 10:53:31 find of selected directories completed
+12_09_05 10:53:31 removed locks on all files within uprocessed
+12_09_05 10:53:31 processing 12_09_05 10:53:31 cat /Volumes/ServerHD/scripts/Archive/archiveFolders.txt
+12_09_05 10:53:31 j: 12_09_0510:53:31cat/volumes/serverhd/scripts/archive/archivefolders.txt
+12_09_05 10:53:31 firstLetter: 1
+12_09_05 10:53:31 j: 2_09_0510:53:31cat/volumes/serverhd/scripts/archive/archivefolders.txt
+12_09_05 10:53:31 ABORT: mv /Volumes/Repository/_unprocessed/12_09_05 10:53:31 cat /Volumes/ServerHD/scripts/Archive/archiveFolders.txt /Volumes/Repository/_unprocessed/12_09_0510:53:31cat/volumes/serverhd/scripts/archive/archivefolders.txt error - could not remove spaces
+12_09_05 10:53:31 script executed in 0 seconds
+12_09_05 10:53:31 0 minutes 0 seconds
+

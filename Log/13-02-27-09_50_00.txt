@@ -1,0 +1,65 @@
+13_02_27 09:50:00     numToDelete:  1
+13_02_27 09:50:00     numTail:  5
+13_02_27 09:50:00 fullPathLog:  /Volumes/ServerHD/scripts/Archive/Log/13-02-15-09_50_00.txt
+13_02_27 09:50:00 Running script as root
+13_02_27 09:50:01 3 Directories to Process
+13_02_27 09:50:01 number of dir:  3
+13_02_27 09:50:01 touch files created
+13_02_27 09:50:01 trap
+13_02_27 09:50:01 removed locks on all files within uprocessed
+13_02_27 09:50:01 processing Bartels|120035665|pollard
+13_02_27 09:50:01 j: bartels#120035665#pollard
+13_02_27 09:50:01 firstLetter: B
+13_02_27 09:50:01 j: artels#120035665#pollard
+13_02_27 09:50:01 old dir /Volumes/Repository/_unprocessed/Bartels#120035665#pollard
+13_02_27 09:50:01 reposidtory dir B
+13_02_27 09:50:01 fullpath /Volumes/Repository/currentRepository/B/Bartels#120035665#pollard
+13_02_27 09:50:01 B
+13_02_27 09:50:01 Bartels#120035665#pollard.tar.gz
+13_02_27 09:50:01 Bartels#120035665#pollard.ls
+13_02_27 09:50:01 masmkdir of B
+13_02_27 09:50:07 tar and put of Bartels#120035665#pollard for archive1
+13_02_27 09:50:07 tar and put of of Bartels#120035665#pollard.ls for archive1
+13_02_27 09:50:09 tar and put of Bartels#120035665#pollard for archive2
+13_02_27 09:50:10 tar and put of Bartels#120035665#pollard.ls for archive2
+13_02_27 09:50:11 tar and put of Bartels#120035665#pollard for archive3
+13_02_27 09:50:12 tar and put of Bartels#120035665#pollard.ls for archive3
+13_02_27 09:50:12 /Volumes/Repository/_unprocessed/Bartels#120035665#pollard  /Volumes/Repository/currentRepository/B/Bartels#120035665#pollard for archive3
+13_02_27 09:50:12 processing Foster|120035129|pollard
+13_02_27 09:50:12 j: foster#120035129#pollard
+13_02_27 09:50:12 firstLetter: F
+13_02_27 09:50:12 j: oster#120035129#pollard
+13_02_27 09:50:12 old dir /Volumes/Repository/_unprocessed/Foster#120035129#pollard
+13_02_27 09:50:12 reposidtory dir F
+13_02_27 09:50:12 fullpath /Volumes/Repository/currentRepository/F/Foster#120035129#pollard
+13_02_27 09:50:12 F
+13_02_27 09:50:12 Foster#120035129#pollard.tar.gz
+13_02_27 09:50:12 Foster#120035129#pollard.ls
+13_02_27 09:50:12 masmkdir of F
+13_02_27 09:50:17 tar and put of Foster#120035129#pollard for archive1
+13_02_27 09:50:17 tar and put of of Foster#120035129#pollard.ls for archive1
+13_02_27 09:50:19 tar and put of Foster#120035129#pollard for archive2
+13_02_27 09:50:19 tar and put of Foster#120035129#pollard.ls for archive2
+13_02_27 09:50:22 tar and put of Foster#120035129#pollard for archive3
+13_02_27 09:50:22 tar and put of Foster#120035129#pollard.ls for archive3
+13_02_27 09:50:22 /Volumes/Repository/_unprocessed/Foster#120035129#pollard  /Volumes/Repository/currentRepository/F/Foster#120035129#pollard for archive3
+13_02_27 09:50:22 processing Foster|120035306|pollard
+13_02_27 09:50:22 j: foster#120035306#pollard
+13_02_27 09:50:22 firstLetter: F
+13_02_27 09:50:22 j: oster#120035306#pollard
+13_02_27 09:50:22 old dir /Volumes/Repository/_unprocessed/Foster#120035306#pollard
+13_02_27 09:50:22 reposidtory dir F
+13_02_27 09:50:22 fullpath /Volumes/Repository/currentRepository/F/Foster#120035306#pollard
+13_02_27 09:50:22 F
+13_02_27 09:50:22 Foster#120035306#pollard.tar.gz
+13_02_27 09:50:22 Foster#120035306#pollard.ls
+13_02_27 09:50:22 masmkdir of F
+13_02_27 09:50:31 tar and put of Foster#120035306#pollard for archive1
+13_02_27 09:50:32 tar and put of of Foster#120035306#pollard.ls for archive1
+13_02_27 09:50:36 tar and put of Foster#120035306#pollard for archive2
+13_02_27 09:50:37 tar and put of Foster#120035306#pollard.ls for archive2
+13_02_27 09:50:41 tar and put of Foster#120035306#pollard for archive3
+13_02_27 09:50:41 tar and put of Foster#120035306#pollard.ls for archive3
+13_02_27 09:50:41 /Volumes/Repository/_unprocessed/Foster#120035306#pollard  /Volumes/Repository/currentRepository/F/Foster#120035306#pollard for archive3
+13_02_27 09:50:41 script executed in 41 seconds
+13_02_27 09:50:41 0 minutes 41 seconds

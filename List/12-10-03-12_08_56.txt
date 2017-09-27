@@ -1,0 +1,647 @@
+Bass#120035554#husch
+Beam#120034534#Husch
+Beam#120034552#Husch
+Behun#120034674#Husch
+Belew#4867#Husch
+Belsches#120035457#Husch
+Bethea#120034623#Husch
+Boston#120034435#Husch
+Bowles#120035506#Husch
+Bowser#120035195#Husch
+Bowser#120035618#Husch
+Brooks#120035546#Husch
+Brooks-Johnson#120035558#Husch
+Buffin#12003#4522#Husch
+Buffin#120034768#Husch
+Buffin#120035460#Husch
+Burns#120034681#Husch
+Burton#120035647#Husch
+Cagley#120035659#Husch
+Campbell#120034269#Husch
+Campbell#120034448#Husch
+Campbell#120035066#Husch
+Campbell#120035139#Husch
+Campbell#120035509#Husch
+Cerro#120035664#Husch
+Coleman#120034931#Husch
+Coleman#120034987#Husch
+Cone#120035184#Husch
+Congiu#120034667#Thornton
+Cosgrove#120035713#Husch
+Cottee#120034829#Husch
+Council#120034706#Husch
+Craft#120034896#Husch.
+DeMarco#120035047#Husch
+DeMarco#120035061#Husch
+DeMarco#1210035046#Husch
+Dee#120035133#Husch
+Deyerle#120034595#Husch
+Dismond#120035124#Husch
+Dismond#120035131#Husch
+Ferebee#120035531#Husch
+Ferlemann#120035650#Husch
+Fields#120034272#Husch
+Finneran#120035143#Husch
+Finneran#120035283#Husch
+Finneran#120035563#Husch
+Finneran#120035658#husch
+Finneran#120035724#Husch
+Friedt#120034376#Husch
+Friend|120032504|jones
+Friend|120032504|jones copy
+Frost#120034710#Husch
+Frost#120035057#Husch
+From root Wed Oct  3 12:24:32 2012
+To: jeffery.l.shipman@nasa.gov
+Subject: Graphix Archive - Errors
+
+12_10_03 12:08:56 Running script as root
+12_10_03 12:08:56 53 Directories to Process
+12_10_03 12:08:56 number of dir:  53
+12_10_03 12:08:57 touch files created
+12_10_03 12:08:57 trap
+12_10_03 12:08:57 removed locks on all files within uprocessed
+12_10_03 12:08:57 processing Bass#120035554#husch
+12_10_03 12:08:57 j: bass#120035554#husch
+12_10_03 12:08:57 firstLetter: B
+12_10_03 12:08:57 j: ass#120035554#husch
+12_10_03 12:08:57 old dir /Volumes/Repository/_unprocessed/Bass#120035554#husch
+12_10_03 12:08:57 reposidtory dir B
+12_10_03 12:08:57 fullpath /Volumes/Repository/currentRepository/B/Bass#120035554#husch
+12_10_03 12:08:57 B
+12_10_03 12:08:57 Bass#120035554#husch.tar.gz
+12_10_03 12:08:57 Bass#120035554#husch.ls
+12_10_03 12:08:57 masmkdir of B
+12_10_03 12:09:10 tar and put of Bass#120035554#husch for archive1
+12_10_03 12:09:10 tar and put of of Bass#120035554#husch.ls for archive1
+12_10_03 12:09:16 tar and put of Bass#120035554#husch for archive2
+12_10_03 12:09:17 tar and put of Bass#120035554#husch.ls for archive2
+12_10_03 12:09:23 tar and put of Bass#120035554#husch for archive3
+12_10_03 12:09:23 tar and put of Bass#120035554#husch.ls for archive3
+12_10_03 12:09:23 /Volumes/Repository/_unprocessed/Bass#120035554#husch  /Volumes/Repository/currentRepository/B/Bass#120035554#husch for archive3
+12_10_03 12:09:23 processing Beam#120034534#Husch
+12_10_03 12:09:23 j: beam#120034534#husch
+12_10_03 12:09:23 firstLetter: B
+12_10_03 12:09:23 j: eam#120034534#husch
+12_10_03 12:09:23 old dir /Volumes/Repository/_unprocessed/Beam#120034534#husch
+12_10_03 12:09:23 reposidtory dir B
+12_10_03 12:09:23 fullpath /Volumes/Repository/currentRepository/B/Beam#120034534#husch
+12_10_03 12:09:23 B
+12_10_03 12:09:23 Beam#120034534#husch.tar.gz
+12_10_03 12:09:23 Beam#120034534#husch.ls
+12_10_03 12:09:23 masmkdir of B
+12_10_03 12:09:29 tar and put of Beam#120034534#husch for archive1
+12_10_03 12:09:29 tar and put of of Beam#120034534#husch.ls for archive1
+12_10_03 12:09:30 tar and put of Beam#120034534#husch for archive2
+12_10_03 12:09:31 tar and put of Beam#120034534#husch.ls for archive2
+12_10_03 12:09:32 tar and put of Beam#120034534#husch for archive3
+12_10_03 12:09:33 tar and put of Beam#120034534#husch.ls for archive3
+12_10_03 12:09:33 /Volumes/Repository/_unprocessed/Beam#120034534#husch  /Volumes/Repository/currentRepository/B/Beam#120034534#husch for archive3
+12_10_03 12:09:33 processing Beam#120034552#Husch
+12_10_03 12:09:33 j: beam#120034552#husch
+12_10_03 12:09:33 firstLetter: B
+12_10_03 12:09:33 j: eam#120034552#husch
+12_10_03 12:09:33 old dir /Volumes/Repository/_unprocessed/Beam#120034552#husch
+12_10_03 12:09:33 reposidtory dir B
+12_10_03 12:09:33 fullpath /Volumes/Repository/currentRepository/B/Beam#120034552#husch
+12_10_03 12:09:33 B
+12_10_03 12:09:33 Beam#120034552#husch.tar.gz
+12_10_03 12:09:33 Beam#120034552#husch.ls
+12_10_03 12:09:33 masmkdir of B
+12_10_03 12:09:38 tar and put of Beam#120034552#husch for archive1
+12_10_03 12:09:39 tar and put of of Beam#120034552#husch.ls for archive1
+12_10_03 12:09:41 tar and put of Beam#120034552#husch for archive2
+12_10_03 12:09:41 tar and put of Beam#120034552#husch.ls for archive2
+12_10_03 12:09:43 tar and put of Beam#120034552#husch for archive3
+12_10_03 12:09:44 tar and put of Beam#120034552#husch.ls for archive3
+12_10_03 12:09:44 /Volumes/Repository/_unprocessed/Beam#120034552#husch  /Volumes/Repository/currentRepository/B/Beam#120034552#husch for archive3
+12_10_03 12:09:44 processing Behun#120034674#Husch
+12_10_03 12:09:44 j: behun#120034674#husch
+12_10_03 12:09:44 firstLetter: B
+12_10_03 12:09:44 j: ehun#120034674#husch
+12_10_03 12:09:44 old dir /Volumes/Repository/_unprocessed/Behun#120034674#husch
+12_10_03 12:09:44 reposidtory dir B
+12_10_03 12:09:44 fullpath /Volumes/Repository/currentRepository/B/Behun#120034674#husch
+12_10_03 12:09:44 B
+12_10_03 12:09:44 Behun#120034674#husch.tar.gz
+12_10_03 12:09:44 Behun#120034674#husch.ls
+12_10_03 12:09:44 masmkdir of B
+12_10_03 12:09:50 tar and put of Behun#120034674#husch for archive1
+12_10_03 12:09:51 tar and put of of Behun#120034674#husch.ls for archive1
+12_10_03 12:09:54 tar and put of Behun#120034674#husch for archive2
+12_10_03 12:09:54 tar and put of Behun#120034674#husch.ls for archive2
+12_10_03 12:09:57 tar and put of Behun#120034674#husch for archive3
+12_10_03 12:09:57 tar and put of Behun#120034674#husch.ls for archive3
+12_10_03 12:09:57 /Volumes/Repository/_unprocessed/Behun#120034674#husch  /Volumes/Repository/currentRepository/B/Behun#120034674#husch for archive3
+12_10_03 12:09:57 processing Belew#4867#Husch
+12_10_03 12:09:57 j: belew#4867#husch
+12_10_03 12:09:57 firstLetter: B
+12_10_03 12:09:57 j: elew#4867#husch
+12_10_03 12:09:57 old dir /Volumes/Repository/_unprocessed/Belew#4867#husch
+12_10_03 12:09:57 reposidtory dir B
+12_10_03 12:09:57 fullpath /Volumes/Repository/currentRepository/B/Belew#4867#husch
+12_10_03 12:09:57 B
+12_10_03 12:09:57 Belew#4867#husch.tar.gz
+12_10_03 12:09:57 Belew#4867#husch.ls
+12_10_03 12:09:57 masmkdir of B
+12_10_03 12:10:06 tar and put of Belew#4867#husch for archive1
+12_10_03 12:10:08 tar and put of of Belew#4867#husch.ls for archive1
+12_10_03 12:10:14 tar and put of Belew#4867#husch for archive2
+12_10_03 12:10:14 tar and put of Belew#4867#husch.ls for archive2
+12_10_03 12:10:19 tar and put of Belew#4867#husch for archive3
+12_10_03 12:10:20 tar and put of Belew#4867#husch.ls for archive3
+12_10_03 12:10:20 /Volumes/Repository/_unprocessed/Belew#4867#husch  /Volumes/Repository/currentRepository/B/Belew#4867#husch for archive3
+12_10_03 12:10:20 processing Belsches#120035457#Husch
+12_10_03 12:10:20 j: belsches#120035457#husch
+12_10_03 12:10:20 firstLetter: B
+12_10_03 12:10:20 j: elsches#120035457#husch
+12_10_03 12:10:20 old dir /Volumes/Repository/_unprocessed/Belsches#120035457#husch
+12_10_03 12:10:20 reposidtory dir B
+12_10_03 12:10:20 fullpath /Volumes/Repository/currentRepository/B/Belsches#120035457#husch
+12_10_03 12:10:20 B
+12_10_03 12:10:20 Belsches#120035457#husch.tar.gz
+12_10_03 12:10:20 Belsches#120035457#husch.ls
+12_10_03 12:10:20 masmkdir of B
+12_10_03 12:10:27 tar and put of Belsches#120035457#husch for archive1
+12_10_03 12:10:27 tar and put of of Belsches#120035457#husch.ls for archive1
+12_10_03 12:10:30 tar and put of Belsches#120035457#husch for archive2
+12_10_03 12:10:30 tar and put of Belsches#120035457#husch.ls for archive2
+12_10_03 12:10:33 tar and put of Belsches#120035457#husch for archive3
+12_10_03 12:10:34 tar and put of Belsches#120035457#husch.ls for archive3
+12_10_03 12:10:34 /Volumes/Repository/_unprocessed/Belsches#120035457#husch  /Volumes/Repository/currentRepository/B/Belsches#120035457#husch for archive3
+12_10_03 12:10:34 processing Bethea#120034623#Husch
+12_10_03 12:10:34 j: bethea#120034623#husch
+12_10_03 12:10:34 firstLetter: B
+12_10_03 12:10:34 j: ethea#120034623#husch
+12_10_03 12:10:34 old dir /Volumes/Repository/_unprocessed/Bethea#120034623#husch
+12_10_03 12:10:34 reposidtory dir B
+12_10_03 12:10:34 fullpath /Volumes/Repository/currentRepository/B/Bethea#120034623#husch
+12_10_03 12:10:34 B
+12_10_03 12:10:34 Bethea#120034623#husch.tar.gz
+12_10_03 12:10:34 Bethea#120034623#husch.ls
+12_10_03 12:10:34 masmkdir of B
+12_10_03 12:10:39 tar and put of Bethea#120034623#husch for archive1
+12_10_03 12:10:39 tar and put of of Bethea#120034623#husch.ls for archive1
+12_10_03 12:10:41 tar and put of Bethea#120034623#husch for archive2
+12_10_03 12:10:41 tar and put of Bethea#120034623#husch.ls for archive2
+12_10_03 12:10:43 tar and put of Bethea#120034623#husch for archive3
+12_10_03 12:10:43 tar and put of Bethea#120034623#husch.ls for archive3
+12_10_03 12:10:43 /Volumes/Repository/_unprocessed/Bethea#120034623#husch  /Volumes/Repository/currentRepository/B/Bethea#120034623#husch for archive3
+12_10_03 12:10:43 processing Boston#120034435#Husch
+12_10_03 12:10:43 j: boston#120034435#husch
+12_10_03 12:10:43 firstLetter: B
+12_10_03 12:10:43 j: oston#120034435#husch
+12_10_03 12:10:43 old dir /Volumes/Repository/_unprocessed/Boston#120034435#husch
+12_10_03 12:10:43 reposidtory dir B
+12_10_03 12:10:43 fullpath /Volumes/Repository/currentRepository/B/Boston#120034435#husch
+12_10_03 12:10:43 B
+12_10_03 12:10:43 Boston#120034435#husch.tar.gz
+12_10_03 12:10:43 Boston#120034435#husch.ls
+12_10_03 12:10:43 masmkdir of B
+12_10_03 12:11:31 tar and put of Boston#120034435#husch for archive1
+12_10_03 12:11:32 tar and put of of Boston#120034435#husch.ls for archive1
+12_10_03 12:12:18 tar and put of Boston#120034435#husch for archive2
+12_10_03 12:12:18 tar and put of Boston#120034435#husch.ls for archive2
+12_10_03 12:13:21 tar and put of Boston#120034435#husch for archive3
+12_10_03 12:13:24 tar and put of Boston#120034435#husch.ls for archive3
+12_10_03 12:13:24 /Volumes/Repository/_unprocessed/Boston#120034435#husch  /Volumes/Repository/currentRepository/B/Boston#120034435#husch for archive3
+12_10_03 12:13:24 processing Bowles#120035506#Husch
+12_10_03 12:13:24 j: bowles#120035506#husch
+12_10_03 12:13:24 firstLetter: B
+12_10_03 12:13:24 j: owles#120035506#husch
+12_10_03 12:13:24 old dir /Volumes/Repository/_unprocessed/Bowles#120035506#husch
+12_10_03 12:13:24 reposidtory dir B
+12_10_03 12:13:24 fullpath /Volumes/Repository/currentRepository/B/Bowles#120035506#husch
+12_10_03 12:13:26 B
+12_10_03 12:13:26 Bowles#120035506#husch.tar.gz
+12_10_03 12:13:26 Bowles#120035506#husch.ls
+12_10_03 12:13:26 masmkdir of B
+12_10_03 12:13:39 tar and put of Bowles#120035506#husch for archive1
+12_10_03 12:13:40 tar and put of of Bowles#120035506#husch.ls for archive1
+12_10_03 12:13:44 tar and put of Bowles#120035506#husch for archive2
+12_10_03 12:13:45 tar and put of Bowles#120035506#husch.ls for archive2
+12_10_03 12:13:48 tar and put of Bowles#120035506#husch for archive3
+12_10_03 12:13:49 tar and put of Bowles#120035506#husch.ls for archive3
+12_10_03 12:13:49 /Volumes/Repository/_unprocessed/Bowles#120035506#husch  /Volumes/Repository/currentRepository/B/Bowles#120035506#husch for archive3
+12_10_03 12:13:49 processing Bowser#120035195#Husch
+12_10_03 12:13:49 j: bowser#120035195#husch
+12_10_03 12:13:49 firstLetter: B
+12_10_03 12:13:49 j: owser#120035195#husch
+12_10_03 12:13:49 old dir /Volumes/Repository/_unprocessed/Bowser#120035195#husch
+12_10_03 12:13:49 reposidtory dir B
+12_10_03 12:13:49 fullpath /Volumes/Repository/currentRepository/B/Bowser#120035195#husch
+12_10_03 12:13:49 B
+12_10_03 12:13:49 Bowser#120035195#husch.tar.gz
+12_10_03 12:13:49 Bowser#120035195#husch.ls
+12_10_03 12:13:49 masmkdir of B
+12_10_03 12:13:55 tar and put of Bowser#120035195#husch for archive1
+12_10_03 12:13:56 tar and put of of Bowser#120035195#husch.ls for archive1
+12_10_03 12:13:59 tar and put of Bowser#120035195#husch for archive2
+12_10_03 12:14:00 tar and put of Bowser#120035195#husch.ls for archive2
+12_10_03 12:14:02 tar and put of Bowser#120035195#husch for archive3
+12_10_03 12:14:02 tar and put of Bowser#120035195#husch.ls for archive3
+12_10_03 12:14:02 /Volumes/Repository/_unprocessed/Bowser#120035195#husch  /Volumes/Repository/currentRepository/B/Bowser#120035195#husch for archive3
+12_10_03 12:14:02 processing Bowser#120035618#Husch
+12_10_03 12:14:02 j: bowser#120035618#husch
+12_10_03 12:14:02 firstLetter: B
+12_10_03 12:14:02 j: owser#120035618#husch
+12_10_03 12:14:02 old dir /Volumes/Repository/_unprocessed/Bowser#120035618#husch
+12_10_03 12:14:02 reposidtory dir B
+12_10_03 12:14:02 fullpath /Volumes/Repository/currentRepository/B/Bowser#120035618#husch
+12_10_03 12:14:02 B
+12_10_03 12:14:02 Bowser#120035618#husch.tar.gz
+12_10_03 12:14:02 Bowser#120035618#husch.ls
+12_10_03 12:14:02 masmkdir of B
+12_10_03 12:14:08 tar and put of Bowser#120035618#husch for archive1
+12_10_03 12:14:10 tar and put of of Bowser#120035618#husch.ls for archive1
+12_10_03 12:14:12 tar and put of Bowser#120035618#husch for archive2
+12_10_03 12:14:12 tar and put of Bowser#120035618#husch.ls for archive2
+12_10_03 12:14:14 tar and put of Bowser#120035618#husch for archive3
+12_10_03 12:14:15 tar and put of Bowser#120035618#husch.ls for archive3
+12_10_03 12:14:15 /Volumes/Repository/_unprocessed/Bowser#120035618#husch  /Volumes/Repository/currentRepository/B/Bowser#120035618#husch for archive3
+12_10_03 12:14:15 processing Brooks#120035546#Husch
+12_10_03 12:14:15 j: brooks#120035546#husch
+12_10_03 12:14:15 firstLetter: B
+12_10_03 12:14:15 j: rooks#120035546#husch
+12_10_03 12:14:15 old dir /Volumes/Repository/_unprocessed/Brooks#120035546#husch
+12_10_03 12:14:15 reposidtory dir B
+12_10_03 12:14:15 fullpath /Volumes/Repository/currentRepository/B/Brooks#120035546#husch
+12_10_03 12:14:15 B
+12_10_03 12:14:15 Brooks#120035546#husch.tar.gz
+12_10_03 12:14:15 Brooks#120035546#husch.ls
+12_10_03 12:14:15 masmkdir of B
+12_10_03 12:14:22 tar and put of Brooks#120035546#husch for archive1
+12_10_03 12:14:22 tar and put of of Brooks#120035546#husch.ls for archive1
+12_10_03 12:14:25 tar and put of Brooks#120035546#husch for archive2
+12_10_03 12:14:25 tar and put of Brooks#120035546#husch.ls for archive2
+12_10_03 12:14:28 tar and put of Brooks#120035546#husch for archive3
+12_10_03 12:14:28 tar and put of Brooks#120035546#husch.ls for archive3
+12_10_03 12:14:28 /Volumes/Repository/_unprocessed/Brooks#120035546#husch  /Volumes/Repository/currentRepository/B/Brooks#120035546#husch for archive3
+12_10_03 12:14:28 processing Brooks-Johnson#120035558#Husch
+12_10_03 12:14:28 j: brooks-johnson#120035558#husch
+12_10_03 12:14:28 firstLetter: B
+12_10_03 12:14:28 j: rooks-johnson#120035558#husch
+12_10_03 12:14:28 old dir /Volumes/Repository/_unprocessed/Brooks-johnson#120035558#husch
+12_10_03 12:14:28 reposidtory dir B
+12_10_03 12:14:28 fullpath /Volumes/Repository/currentRepository/B/Brooks-johnson#120035558#husch
+12_10_03 12:14:29 B
+12_10_03 12:14:29 Brooks-johnson#120035558#husch.tar.gz
+12_10_03 12:14:29 Brooks-johnson#120035558#husch.ls
+12_10_03 12:14:29 masmkdir of B
+12_10_03 12:14:44 tar and put of Brooks-johnson#120035558#husch for archive1
+12_10_03 12:14:45 tar and put of of Brooks-johnson#120035558#husch.ls for archive1
+12_10_03 12:14:58 tar and put of Brooks-johnson#120035558#husch for archive2
+12_10_03 12:14:59 tar and put of Brooks-johnson#120035558#husch.ls for archive2
+12_10_03 12:15:14 tar and put of Brooks-johnson#120035558#husch for archive3
+12_10_03 12:15:15 tar and put of Brooks-johnson#120035558#husch.ls for archive3
+12_10_03 12:15:15 /Volumes/Repository/_unprocessed/Brooks-johnson#120035558#husch  /Volumes/Repository/currentRepository/B/Brooks-johnson#120035558#husch for archive3
+12_10_03 12:15:15 processing Buffin#12003#4522#Husch
+12_10_03 12:15:16 j: buffin#12003#4522#husch
+12_10_03 12:15:16 firstLetter: B
+12_10_03 12:15:16 j: uffin#12003#4522#husch
+12_10_03 12:15:16 old dir /Volumes/Repository/_unprocessed/Buffin#12003#4522#husch
+12_10_03 12:15:16 reposidtory dir B
+12_10_03 12:15:16 fullpath /Volumes/Repository/currentRepository/B/Buffin#12003#4522#husch
+12_10_03 12:15:16 B
+12_10_03 12:15:16 Buffin#12003#4522#husch.tar.gz
+12_10_03 12:15:16 Buffin#12003#4522#husch.ls
+12_10_03 12:15:16 masmkdir of B
+12_10_03 12:15:23 tar and put of Buffin#12003#4522#husch for archive1
+12_10_03 12:15:24 tar and put of of Buffin#12003#4522#husch.ls for archive1
+12_10_03 12:15:27 tar and put of Buffin#12003#4522#husch for archive2
+12_10_03 12:15:27 tar and put of Buffin#12003#4522#husch.ls for archive2
+12_10_03 12:15:29 tar and put of Buffin#12003#4522#husch for archive3
+12_10_03 12:15:30 tar and put of Buffin#12003#4522#husch.ls for archive3
+12_10_03 12:15:30 /Volumes/Repository/_unprocessed/Buffin#12003#4522#husch  /Volumes/Repository/currentRepository/B/Buffin#12003#4522#husch for archive3
+12_10_03 12:15:30 processing Buffin#120034768#Husch
+12_10_03 12:15:30 j: buffin#120034768#husch
+12_10_03 12:15:30 firstLetter: B
+12_10_03 12:15:30 j: uffin#120034768#husch
+12_10_03 12:15:30 old dir /Volumes/Repository/_unprocessed/Buffin#120034768#husch
+12_10_03 12:15:30 reposidtory dir B
+12_10_03 12:15:30 fullpath /Volumes/Repository/currentRepository/B/Buffin#120034768#husch
+12_10_03 12:15:30 B
+12_10_03 12:15:30 Buffin#120034768#husch.tar.gz
+12_10_03 12:15:30 Buffin#120034768#husch.ls
+12_10_03 12:15:30 masmkdir of B
+12_10_03 12:15:37 tar and put of Buffin#120034768#husch for archive1
+12_10_03 12:15:38 tar and put of of Buffin#120034768#husch.ls for archive1
+12_10_03 12:15:40 tar and put of Buffin#120034768#husch for archive2
+12_10_03 12:15:41 tar and put of Buffin#120034768#husch.ls for archive2
+12_10_03 12:15:43 tar and put of Buffin#120034768#husch for archive3
+12_10_03 12:15:44 tar and put of Buffin#120034768#husch.ls for archive3
+12_10_03 12:15:44 /Volumes/Repository/_unprocessed/Buffin#120034768#husch  /Volumes/Repository/currentRepository/B/Buffin#120034768#husch for archive3
+12_10_03 12:15:44 processing Buffin#120035460#Husch
+12_10_03 12:15:44 j: buffin#120035460#husch
+12_10_03 12:15:44 firstLetter: B
+12_10_03 12:15:44 j: uffin#120035460#husch
+12_10_03 12:15:44 old dir /Volumes/Repository/_unprocessed/Buffin#120035460#husch
+12_10_03 12:15:44 reposidtory dir B
+12_10_03 12:15:44 fullpath /Volumes/Repository/currentRepository/B/Buffin#120035460#husch
+12_10_03 12:15:45 B
+12_10_03 12:15:45 Buffin#120035460#husch.tar.gz
+12_10_03 12:15:45 Buffin#120035460#husch.ls
+12_10_03 12:15:45 masmkdir of B
+12_10_03 12:15:50 tar and put of Buffin#120035460#husch for archive1
+12_10_03 12:15:51 tar and put of of Buffin#120035460#husch.ls for archive1
+12_10_03 12:15:55 tar and put of Buffin#120035460#husch for archive2
+12_10_03 12:15:55 tar and put of Buffin#120035460#husch.ls for archive2
+12_10_03 12:15:57 tar and put of Buffin#120035460#husch for archive3
+12_10_03 12:15:58 tar and put of Buffin#120035460#husch.ls for archive3
+12_10_03 12:15:58 /Volumes/Repository/_unprocessed/Buffin#120035460#husch  /Volumes/Repository/currentRepository/B/Buffin#120035460#husch for archive3
+12_10_03 12:15:58 processing Burns#120034681#Husch
+12_10_03 12:15:58 j: burns#120034681#husch
+12_10_03 12:15:58 firstLetter: B
+12_10_03 12:15:58 j: urns#120034681#husch
+12_10_03 12:15:58 old dir /Volumes/Repository/_unprocessed/Burns#120034681#husch
+12_10_03 12:15:58 reposidtory dir B
+12_10_03 12:15:58 fullpath /Volumes/Repository/currentRepository/B/Burns#120034681#husch
+12_10_03 12:15:58 B
+12_10_03 12:15:58 Burns#120034681#husch.tar.gz
+12_10_03 12:15:58 Burns#120034681#husch.ls
+12_10_03 12:15:58 masmkdir of B
+12_10_03 12:16:19 tar and put of Burns#120034681#husch for archive1
+12_10_03 12:16:19 tar and put of of Burns#120034681#husch.ls for archive1
+12_10_03 12:16:34 tar and put of Burns#120034681#husch for archive2
+12_10_03 12:16:35 tar and put of Burns#120034681#husch.ls for archive2
+12_10_03 12:16:49 tar and put of Burns#120034681#husch for archive3
+12_10_03 12:16:49 tar and put of Burns#120034681#husch.ls for archive3
+12_10_03 12:16:49 /Volumes/Repository/_unprocessed/Burns#120034681#husch  /Volumes/Repository/currentRepository/B/Burns#120034681#husch for archive3
+12_10_03 12:16:49 processing Burton#120035647#Husch
+12_10_03 12:16:49 j: burton#120035647#husch
+12_10_03 12:16:49 firstLetter: B
+12_10_03 12:16:49 j: urton#120035647#husch
+12_10_03 12:16:49 old dir /Volumes/Repository/_unprocessed/Burton#120035647#husch
+12_10_03 12:16:49 reposidtory dir B
+12_10_03 12:16:49 fullpath /Volumes/Repository/currentRepository/B/Burton#120035647#husch
+12_10_03 12:16:49 B
+12_10_03 12:16:49 Burton#120035647#husch.tar.gz
+12_10_03 12:16:49 Burton#120035647#husch.ls
+12_10_03 12:16:49 masmkdir of B
+12_10_03 12:16:56 tar and put of Burton#120035647#husch for archive1
+12_10_03 12:16:56 tar and put of of Burton#120035647#husch.ls for archive1
+12_10_03 12:16:59 tar and put of Burton#120035647#husch for archive2
+12_10_03 12:16:59 tar and put of Burton#120035647#husch.ls for archive2
+12_10_03 12:17:02 tar and put of Burton#120035647#husch for archive3
+12_10_03 12:17:02 tar and put of Burton#120035647#husch.ls for archive3
+12_10_03 12:17:02 /Volumes/Repository/_unprocessed/Burton#120035647#husch  /Volumes/Repository/currentRepository/B/Burton#120035647#husch for archive3
+12_10_03 12:17:02 processing Cagley#120035659#Husch
+12_10_03 12:17:03 j: cagley#120035659#husch
+12_10_03 12:17:03 firstLetter: C
+12_10_03 12:17:03 j: agley#120035659#husch
+12_10_03 12:17:03 old dir /Volumes/Repository/_unprocessed/Cagley#120035659#husch
+12_10_03 12:17:03 reposidtory dir C
+12_10_03 12:17:03 fullpath /Volumes/Repository/currentRepository/C/Cagley#120035659#husch
+12_10_03 12:17:03 C
+12_10_03 12:17:03 Cagley#120035659#husch.tar.gz
+12_10_03 12:17:03 Cagley#120035659#husch.ls
+12_10_03 12:17:03 masmkdir of C
+12_10_03 12:17:21 tar and put of Cagley#120035659#husch for archive1
+12_10_03 12:17:21 tar and put of of Cagley#120035659#husch.ls for archive1
+12_10_03 12:17:35 tar and put of Cagley#120035659#husch for archive2
+12_10_03 12:17:35 tar and put of Cagley#120035659#husch.ls for archive2
+12_10_03 12:17:49 tar and put of Cagley#120035659#husch for archive3
+12_10_03 12:17:49 tar and put of Cagley#120035659#husch.ls for archive3
+12_10_03 12:17:49 /Volumes/Repository/_unprocessed/Cagley#120035659#husch  /Volumes/Repository/currentRepository/C/Cagley#120035659#husch for archive3
+12_10_03 12:17:49 processing Campbell#120034269#Husch
+12_10_03 12:17:49 j: campbell#120034269#husch
+12_10_03 12:17:49 firstLetter: C
+12_10_03 12:17:49 j: ampbell#120034269#husch
+12_10_03 12:17:49 old dir /Volumes/Repository/_unprocessed/Campbell#120034269#husch
+12_10_03 12:17:49 reposidtory dir C
+12_10_03 12:17:49 fullpath /Volumes/Repository/currentRepository/C/Campbell#120034269#husch
+12_10_03 12:17:49 C
+12_10_03 12:17:49 Campbell#120034269#husch.tar.gz
+12_10_03 12:17:49 Campbell#120034269#husch.ls
+12_10_03 12:17:49 masmkdir of C
+12_10_03 12:17:58 tar and put of Campbell#120034269#husch for archive1
+12_10_03 12:17:58 tar and put of of Campbell#120034269#husch.ls for archive1
+12_10_03 12:18:03 tar and put of Campbell#120034269#husch for archive2
+12_10_03 12:18:03 tar and put of Campbell#120034269#husch.ls for archive2
+12_10_03 12:18:07 tar and put of Campbell#120034269#husch for archive3
+12_10_03 12:18:08 tar and put of Campbell#120034269#husch.ls for archive3
+12_10_03 12:18:08 /Volumes/Repository/_unprocessed/Campbell#120034269#husch  /Volumes/Repository/currentRepository/C/Campbell#120034269#husch for archive3
+12_10_03 12:18:08 processing Campbell#120034448#Husch
+12_10_03 12:18:08 j: campbell#120034448#husch
+12_10_03 12:18:08 firstLetter: C
+12_10_03 12:18:08 j: ampbell#120034448#husch
+12_10_03 12:18:08 old dir /Volumes/Repository/_unprocessed/Campbell#120034448#husch
+12_10_03 12:18:08 reposidtory dir C
+12_10_03 12:18:08 fullpath /Volumes/Repository/currentRepository/C/Campbell#120034448#husch
+12_10_03 12:18:08 C
+12_10_03 12:18:08 Campbell#120034448#husch.tar.gz
+12_10_03 12:18:08 Campbell#120034448#husch.ls
+12_10_03 12:18:08 masmkdir of C
+12_10_03 12:18:14 tar and put of Campbell#120034448#husch for archive1
+12_10_03 12:18:15 tar and put of of Campbell#120034448#husch.ls for archive1
+12_10_03 12:18:17 tar and put of Campbell#120034448#husch for archive2
+12_10_03 12:18:18 tar and put of Campbell#120034448#husch.ls for archive2
+12_10_03 12:18:21 tar and put of Campbell#120034448#husch for archive3
+12_10_03 12:18:21 tar and put of Campbell#120034448#husch.ls for archive3
+12_10_03 12:18:21 /Volumes/Repository/_unprocessed/Campbell#120034448#husch  /Volumes/Repository/currentRepository/C/Campbell#120034448#husch for archive3
+12_10_03 12:18:21 processing Campbell#120035066#Husch
+12_10_03 12:18:21 j: campbell#120035066#husch
+12_10_03 12:18:21 firstLetter: C
+12_10_03 12:18:21 j: ampbell#120035066#husch
+12_10_03 12:18:21 old dir /Volumes/Repository/_unprocessed/Campbell#120035066#husch
+12_10_03 12:18:21 reposidtory dir C
+12_10_03 12:18:21 fullpath /Volumes/Repository/currentRepository/C/Campbell#120035066#husch
+12_10_03 12:18:21 C
+12_10_03 12:18:21 Campbell#120035066#husch.tar.gz
+12_10_03 12:18:21 Campbell#120035066#husch.ls
+12_10_03 12:18:21 masmkdir of C
+12_10_03 12:18:31 tar and put of Campbell#120035066#husch for archive1
+12_10_03 12:18:31 tar and put of of Campbell#120035066#husch.ls for archive1
+12_10_03 12:18:37 tar and put of Campbell#120035066#husch for archive2
+12_10_03 12:18:38 tar and put of Campbell#120035066#husch.ls for archive2
+12_10_03 12:18:44 tar and put of Campbell#120035066#husch for archive3
+12_10_03 12:18:44 tar and put of Campbell#120035066#husch.ls for archive3
+12_10_03 12:18:44 /Volumes/Repository/_unprocessed/Campbell#120035066#husch  /Volumes/Repository/currentRepository/C/Campbell#120035066#husch for archive3
+12_10_03 12:18:44 processing Campbell#120035139#Husch
+12_10_03 12:18:44 j: campbell#120035139#husch
+12_10_03 12:18:44 firstLetter: C
+12_10_03 12:18:44 j: ampbell#120035139#husch
+12_10_03 12:18:44 old dir /Volumes/Repository/_unprocessed/Campbell#120035139#husch
+12_10_03 12:18:44 reposidtory dir C
+12_10_03 12:18:44 fullpath /Volumes/Repository/currentRepository/C/Campbell#120035139#husch
+12_10_03 12:18:44 C
+12_10_03 12:18:44 Campbell#120035139#husch.tar.gz
+12_10_03 12:18:44 Campbell#120035139#husch.ls
+12_10_03 12:18:44 masmkdir of C
+12_10_03 12:18:50 tar and put of Campbell#120035139#husch for archive1
+12_10_03 12:18:50 tar and put of of Campbell#120035139#husch.ls for archive1
+12_10_03 12:18:52 tar and put of Campbell#120035139#husch for archive2
+12_10_03 12:18:53 tar and put of Campbell#120035139#husch.ls for archive2
+12_10_03 12:18:55 tar and put of Campbell#120035139#husch for archive3
+12_10_03 12:18:55 tar and put of Campbell#120035139#husch.ls for archive3
+12_10_03 12:18:55 /Volumes/Repository/_unprocessed/Campbell#120035139#husch  /Volumes/Repository/currentRepository/C/Campbell#120035139#husch for archive3
+12_10_03 12:18:55 processing Campbell#120035509#Husch
+12_10_03 12:18:55 j: campbell#120035509#husch
+12_10_03 12:18:55 firstLetter: C
+12_10_03 12:18:55 j: ampbell#120035509#husch
+12_10_03 12:18:55 old dir /Volumes/Repository/_unprocessed/Campbell#120035509#husch
+12_10_03 12:18:55 reposidtory dir C
+12_10_03 12:18:55 fullpath /Volumes/Repository/currentRepository/C/Campbell#120035509#husch
+12_10_03 12:18:55 C
+12_10_03 12:18:55 Campbell#120035509#husch.tar.gz
+12_10_03 12:18:55 Campbell#120035509#husch.ls
+12_10_03 12:18:55 masmkdir of C
+12_10_03 12:19:01 tar and put of Campbell#120035509#husch for archive1
+12_10_03 12:19:01 tar and put of of Campbell#120035509#husch.ls for archive1
+12_10_03 12:19:03 tar and put of Campbell#120035509#husch for archive2
+12_10_03 12:19:03 tar and put of Campbell#120035509#husch.ls for archive2
+12_10_03 12:19:05 tar and put of Campbell#120035509#husch for archive3
+12_10_03 12:19:06 tar and put of Campbell#120035509#husch.ls for archive3
+12_10_03 12:19:06 /Volumes/Repository/_unprocessed/Campbell#120035509#husch  /Volumes/Repository/currentRepository/C/Campbell#120035509#husch for archive3
+12_10_03 12:19:06 processing Cerro#120035664#Husch
+12_10_03 12:19:06 j: cerro#120035664#husch
+12_10_03 12:19:06 firstLetter: C
+12_10_03 12:19:06 j: erro#120035664#husch
+12_10_03 12:19:06 old dir /Volumes/Repository/_unprocessed/Cerro#120035664#husch
+12_10_03 12:19:06 reposidtory dir C
+12_10_03 12:19:06 fullpath /Volumes/Repository/currentRepository/C/Cerro#120035664#husch
+12_10_03 12:19:06 C
+12_10_03 12:19:06 Cerro#120035664#husch.tar.gz
+12_10_03 12:19:06 Cerro#120035664#husch.ls
+12_10_03 12:19:06 masmkdir of C
+12_10_03 12:19:12 tar and put of Cerro#120035664#husch for archive1
+12_10_03 12:19:12 tar and put of of Cerro#120035664#husch.ls for archive1
+12_10_03 12:19:14 tar and put of Cerro#120035664#husch for archive2
+12_10_03 12:19:15 tar and put of Cerro#120035664#husch.ls for archive2
+12_10_03 12:19:17 tar and put of Cerro#120035664#husch for archive3
+12_10_03 12:19:18 tar and put of Cerro#120035664#husch.ls for archive3
+12_10_03 12:19:18 /Volumes/Repository/_unprocessed/Cerro#120035664#husch  /Volumes/Repository/currentRepository/C/Cerro#120035664#husch for archive3
+12_10_03 12:19:18 processing Coleman#120034931#Husch
+12_10_03 12:19:18 j: coleman#120034931#husch
+12_10_03 12:19:18 firstLetter: C
+12_10_03 12:19:18 j: oleman#120034931#husch
+12_10_03 12:19:18 old dir /Volumes/Repository/_unprocessed/Coleman#120034931#husch
+12_10_03 12:19:18 reposidtory dir C
+12_10_03 12:19:18 fullpath /Volumes/Repository/currentRepository/C/Coleman#120034931#husch
+12_10_03 12:19:18 C
+12_10_03 12:19:18 Coleman#120034931#husch.tar.gz
+12_10_03 12:19:18 Coleman#120034931#husch.ls
+12_10_03 12:19:18 masmkdir of C
+12_10_03 12:19:23 tar and put of Coleman#120034931#husch for archive1
+12_10_03 12:19:24 tar and put of of Coleman#120034931#husch.ls for archive1
+12_10_03 12:19:26 tar and put of Coleman#120034931#husch for archive2
+12_10_03 12:19:26 tar and put of Coleman#120034931#husch.ls for archive2
+12_10_03 12:19:28 tar and put of Coleman#120034931#husch for archive3
+12_10_03 12:19:28 tar and put of Coleman#120034931#husch.ls for archive3
+12_10_03 12:19:28 /Volumes/Repository/_unprocessed/Coleman#120034931#husch  /Volumes/Repository/currentRepository/C/Coleman#120034931#husch for archive3
+12_10_03 12:19:28 processing Coleman#120034987#Husch
+12_10_03 12:19:28 j: coleman#120034987#husch
+12_10_03 12:19:28 firstLetter: C
+12_10_03 12:19:28 j: oleman#120034987#husch
+12_10_03 12:19:28 old dir /Volumes/Repository/_unprocessed/Coleman#120034987#husch
+12_10_03 12:19:28 reposidtory dir C
+12_10_03 12:19:28 fullpath /Volumes/Repository/currentRepository/C/Coleman#120034987#husch
+12_10_03 12:19:28 C
+12_10_03 12:19:28 Coleman#120034987#husch.tar.gz
+12_10_03 12:19:28 Coleman#120034987#husch.ls
+12_10_03 12:19:28 masmkdir of C
+12_10_03 12:19:34 tar and put of Coleman#120034987#husch for archive1
+12_10_03 12:19:35 tar and put of of Coleman#120034987#husch.ls for archive1
+12_10_03 12:19:36 tar and put of Coleman#120034987#husch for archive2
+12_10_03 12:19:37 tar and put of Coleman#120034987#husch.ls for archive2
+12_10_03 12:19:38 tar and put of Coleman#120034987#husch for archive3
+12_10_03 12:19:39 tar and put of Coleman#120034987#husch.ls for archive3
+12_10_03 12:19:39 /Volumes/Repository/_unprocessed/Coleman#120034987#husch  /Volumes/Repository/currentRepository/C/Coleman#120034987#husch for archive3
+12_10_03 12:19:39 processing Cone#120035184#Husch
+12_10_03 12:19:39 j: cone#120035184#husch
+12_10_03 12:19:39 firstLetter: C
+12_10_03 12:19:39 j: one#120035184#husch
+12_10_03 12:19:39 old dir /Volumes/Repository/_unprocessed/Cone#120035184#husch
+12_10_03 12:19:39 reposidtory dir C
+12_10_03 12:19:39 fullpath /Volumes/Repository/currentRepository/C/Cone#120035184#husch
+12_10_03 12:19:39 C
+12_10_03 12:19:39 Cone#120035184#husch.tar.gz
+12_10_03 12:19:39 Cone#120035184#husch.ls
+12_10_03 12:19:39 masmkdir of C
+12_10_03 12:19:46 tar and put of Cone#120035184#husch for archive1
+12_10_03 12:19:46 tar and put of of Cone#120035184#husch.ls for archive1
+12_10_03 12:19:49 tar and put of Cone#120035184#husch for archive2
+12_10_03 12:19:49 tar and put of Cone#120035184#husch.ls for archive2
+12_10_03 12:19:52 tar and put of Cone#120035184#husch for archive3
+12_10_03 12:19:52 tar and put of Cone#120035184#husch.ls for archive3
+12_10_03 12:19:52 /Volumes/Repository/_unprocessed/Cone#120035184#husch  /Volumes/Repository/currentRepository/C/Cone#120035184#husch for archive3
+12_10_03 12:19:52 processing Congiu#120034667#Thornton
+12_10_03 12:19:52 j: congiu#120034667#thornton
+12_10_03 12:19:52 firstLetter: C
+12_10_03 12:19:52 j: ongiu#120034667#thornton
+12_10_03 12:19:52 old dir /Volumes/Repository/_unprocessed/Congiu#120034667#thornton
+12_10_03 12:19:52 reposidtory dir C
+12_10_03 12:19:52 fullpath /Volumes/Repository/currentRepository/C/Congiu#120034667#thornton
+12_10_03 12:19:52 C
+12_10_03 12:19:52 Congiu#120034667#thornton.tar.gz
+12_10_03 12:19:52 Congiu#120034667#thornton.ls
+12_10_03 12:19:52 masmkdir of C
+12_10_03 12:19:59 tar and put of Congiu#120034667#thornton for archive1
+12_10_03 12:19:59 tar and put of of Congiu#120034667#thornton.ls for archive1
+12_10_03 12:20:02 tar and put of Congiu#120034667#thornton for archive2
+12_10_03 12:20:02 tar and put of Congiu#120034667#thornton.ls for archive2
+12_10_03 12:20:05 tar and put of Congiu#120034667#thornton for archive3
+12_10_03 12:20:05 tar and put of Congiu#120034667#thornton.ls for archive3
+12_10_03 12:20:05 /Volumes/Repository/_unprocessed/Congiu#120034667#thornton  /Volumes/Repository/currentRepository/C/Congiu#120034667#thornton for archive3
+12_10_03 12:20:05 processing Cosgrove#120035713#Husch
+12_10_03 12:20:06 j: cosgrove#120035713#husch
+12_10_03 12:20:06 firstLetter: C
+12_10_03 12:20:06 j: osgrove#120035713#husch
+12_10_03 12:20:06 old dir /Volumes/Repository/_unprocessed/Cosgrove#120035713#husch
+12_10_03 12:20:06 reposidtory dir C
+12_10_03 12:20:06 fullpath /Volumes/Repository/currentRepository/C/Cosgrove#120035713#husch
+12_10_03 12:20:06 C
+12_10_03 12:20:06 Cosgrove#120035713#husch.tar.gz
+12_10_03 12:20:06 Cosgrove#120035713#husch.ls
+12_10_03 12:20:06 masmkdir of C
+12_10_03 12:20:13 tar and put of Cosgrove#120035713#husch for archive1
+12_10_03 12:20:13 tar and put of of Cosgrove#120035713#husch.ls for archive1
+12_10_03 12:20:16 tar and put of Cosgrove#120035713#husch for archive2
+12_10_03 12:20:16 tar and put of Cosgrove#120035713#husch.ls for archive2
+12_10_03 12:20:19 tar and put of Cosgrove#120035713#husch for archive3
+12_10_03 12:20:19 tar and put of Cosgrove#120035713#husch.ls for archive3
+12_10_03 12:20:19 /Volumes/Repository/_unprocessed/Cosgrove#120035713#husch  /Volumes/Repository/currentRepository/C/Cosgrove#120035713#husch for archive3
+12_10_03 12:20:19 processing Cottee#120034829#Husch
+12_10_03 12:20:19 j: cottee#120034829#husch
+12_10_03 12:20:19 firstLetter: C
+12_10_03 12:20:19 j: ottee#120034829#husch
+12_10_03 12:20:19 old dir /Volumes/Repository/_unprocessed/Cottee#120034829#husch
+12_10_03 12:20:19 reposidtory dir C
+12_10_03 12:20:19 fullpath /Volumes/Repository/currentRepository/C/Cottee#120034829#husch
+12_10_03 12:20:19 C
+12_10_03 12:20:19 Cottee#120034829#husch.tar.gz
+12_10_03 12:20:19 Cottee#120034829#husch.ls
+12_10_03 12:20:19 masmkdir of C
+12_10_03 12:21:42 tar and put of Cottee#120034829#husch for archive1
+12_10_03 12:21:42 tar and put of of Cottee#120034829#husch.ls for archive1
+12_10_03 12:23:01 tar and put of Cottee#120034829#husch for archive2
+12_10_03 12:23:02 tar and put of Cottee#120034829#husch.ls for archive2
+12_10_03 12:24:21 tar and put of Cottee#120034829#husch for archive3
+12_10_03 12:24:22 tar and put of Cottee#120034829#husch.ls for archive3
+12_10_03 12:24:22 /Volumes/Repository/_unprocessed/Cottee#120034829#husch  /Volumes/Repository/currentRepository/C/Cottee#120034829#husch for archive3
+12_10_03 12:24:22 processing Council#120034706#Husch
+12_10_03 12:24:22 j: council#120034706#husch
+12_10_03 12:24:22 firstLetter: C
+12_10_03 12:24:22 j: ouncil#120034706#husch
+12_10_03 12:24:22 old dir /Volumes/Repository/_unprocessed/Council#120034706#husch
+12_10_03 12:24:22 reposidtory dir C
+12_10_03 12:24:22 fullpath /Volumes/Repository/currentRepository/C/Council#120034706#husch
+12_10_03 12:24:22 C
+12_10_03 12:24:22 Council#120034706#husch.tar.gz
+12_10_03 12:24:22 Council#120034706#husch.ls
+12_10_03 12:24:22 masmkdir of C
+12_10_03 12:24:28 tar and put of Council#120034706#husch for archive1
+12_10_03 12:24:28 tar and put of of Council#120034706#husch.ls for archive1
+12_10_03 12:24:29 tar and put of Council#120034706#husch for archive2
+12_10_03 12:24:30 tar and put of Council#120034706#husch.ls for archive2
+12_10_03 12:24:32 tar and put of Council#120034706#husch for archive3
+12_10_03 12:24:32 tar and put of Council#120034706#husch.ls for archive3
+12_10_03 12:24:32 /Volumes/Repository/_unprocessed/Council#120034706#husch  /Volumes/Repository/currentRepository/C/Council#120034706#husch for archive3
+12_10_03 12:24:32 processing Craft#120034896#Husch.
+12_10_03 12:24:32 j: craft#120034896#husch.
+12_10_03 12:24:32 firstLetter: C
+12_10_03 12:24:32 j: raft#120034896#husch.
+12_10_03 12:24:32 ABORT: mv /Volumes/Repository/_unprocessed/Craft#120034896#Husch. /Volumes/Repository/_unprocessed/Craft#120034896#husch. error - could not remove spaces
+12_10_03 12:24:32 script executed in 936 seconds
+12_10_03 12:24:32 0 minutes 36 seconds
+

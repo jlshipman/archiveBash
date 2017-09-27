@@ -1,0 +1,49 @@
+Bartels|120035265|pollard
+Croom|120035381|pollard
+Fogarty|120035073|pollard
+Fogarty|120035182|pollard
+Nielsen#120034669#husch
+Nielsen#120034677#Husch
+Nielsen#120034865#Husch
+Nielsen#120034966#Husch
+Nielson#120034602#Husch
+O'Neill#120035128#Husch
+O'Neill#120035199#Husch
+O'Neill#120035273#Husch
+O'Neill#120035379#Husch
+O'Neill#120035434#Husch
+O'Neill#120035470#Husch
+O'Neill#120035615#Husch
+ONeill#120034363#Husch
+ONeill#120034365#Husch
+ONeill#120034371#Husch
+ONeill#120035044#Husch
+Oneill#120034241#Husch
+Oneill#120034364#Husch
+Oneill#120034372#Husch
+Owens|120034761|pollard
+Owens|120034903|pollard
+Vicroy|120035377|pollard
+Wieseman|120035190|pollard
+Wilbur|1200352520|pollard
+From root Wed Sep  5 10:54:21 2012
+To: jeffery.l.shipman@nasa.gov
+Subject: Graphix Archive - Errors
+
+12_09_05 10:54:21 Running script as root
+12_09_05 10:54:21 28 Directories to Process
+12_09_05 10:54:21 number of dir:  28
+12_09_05 10:54:21 touch files created
+12_09_05 10:54:21 trap
+12_09_05 10:54:21 removed locks on all files within uprocessed
+12_09_05 10:54:21 processing Bartels|120035265|pollard
+12_09_05 10:54:21 j: bartels#120035265#pollard
+12_09_05 10:54:21 firstLetter: B
+12_09_05 10:54:21 j: artels#120035265#pollard
+12_09_05 10:54:21 old dir /Volumes/Repository/_unprocessed/Bartels#120035265#pollard
+12_09_05 10:54:21 reposidtory dir B
+12_09_05 10:54:21 fullpath /Volumes/Repository/currentRepository/B/Bartels#120035265#pollard
+12_09_05 10:54:21 ABORT: chgrp -R Graphics error:  _/Volumes/Repository/_unprocessed/Bartels#120035265#pollard_
+12_09_05 10:54:21 script executed in 0 seconds
+12_09_05 10:54:21 0 minutes 0 seconds
+

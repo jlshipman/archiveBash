@@ -1,0 +1,2 @@
+.ds_store
+Campbell|120033380|husch

@@ -1,0 +1,545 @@
+Bartels#120035265#pollard
+Croom|120035381|pollard
+Fogarty|120035073|pollard
+Fogarty|120035182|pollard
+Nielsen#120034669#husch
+Nielsen#120034677#Husch
+Nielsen#120034865#Husch
+Nielsen#120034966#Husch
+Nielson#120034602#Husch
+O'Neill#120035128#Husch
+O'Neill#120035199#Husch
+O'Neill#120035273#Husch
+O'Neill#120035379#Husch
+O'Neill#120035434#Husch
+O'Neill#120035470#Husch
+O'Neill#120035615#Husch
+ONeill#120034363#Husch
+ONeill#120034365#Husch
+ONeill#120034371#Husch
+ONeill#120035044#Husch
+Oneill#120034241#Husch
+Oneill#120034364#Husch
+Oneill#120034372#Husch
+Owens|120034761|pollard
+Owens|120034903|pollard
+Vicroy|120035377|pollard
+Wieseman|120035190|pollard
+Wilbur|1200352520|pollard
+From root Wed Sep  5 11:11:30 2012
+To: jeffery.l.shipman@nasa.gov
+Subject: Graphix Archive - Directories List
+
+12_09_05 10:56:04 Running script as root
+12_09_05 10:56:04 28 Directories to Process
+12_09_05 10:56:04 number of dir:  28
+12_09_05 10:56:04 touch files created
+12_09_05 10:56:04 trap
+12_09_05 10:56:05 removed locks on all files within uprocessed
+12_09_05 10:56:05 processing Bartels#120035265#pollard
+12_09_05 10:56:05 j: bartels#120035265#pollard
+12_09_05 10:56:05 firstLetter: B
+12_09_05 10:56:05 j: artels#120035265#pollard
+12_09_05 10:56:05 old dir /Volumes/Repository/_unprocessed/Bartels#120035265#pollard
+12_09_05 10:56:05 reposidtory dir B
+12_09_05 10:56:05 fullpath /Volumes/Repository/currentRepository/B/Bartels#120035265#pollard
+12_09_05 10:56:05 B
+12_09_05 10:56:05 Bartels#120035265#pollard.tar.gz
+12_09_05 10:56:05 Bartels#120035265#pollard.ls
+12_09_05 10:56:05 masmkdir of B
+12_09_05 10:56:10 tar and put of Bartels#120035265#pollard for archive1
+12_09_05 10:56:11 tar and put of of Bartels#120035265#pollard.ls for archive1
+12_09_05 10:56:13 tar and put of Bartels#120035265#pollard for archive2
+12_09_05 10:56:14 tar and put of Bartels#120035265#pollard.ls for archive2
+12_09_05 10:56:17 tar and put of Bartels#120035265#pollard for archive3
+12_09_05 10:56:18 tar and put of Bartels#120035265#pollard.ls for archive3
+12_09_05 10:56:18 /Volumes/Repository/_unprocessed/Bartels#120035265#pollard  /Volumes/Repository/currentRepository/B/Bartels#120035265#pollard for archive3
+12_09_05 10:56:18 processing Croom|120035381|pollard
+12_09_05 10:56:18 j: croom#120035381#pollard
+12_09_05 10:56:18 firstLetter: C
+12_09_05 10:56:18 j: room#120035381#pollard
+12_09_05 10:56:18 old dir /Volumes/Repository/_unprocessed/Croom#120035381#pollard
+12_09_05 10:56:18 reposidtory dir C
+12_09_05 10:56:18 fullpath /Volumes/Repository/currentRepository/C/Croom#120035381#pollard
+12_09_05 10:56:18 C
+12_09_05 10:56:18 Croom#120035381#pollard.tar.gz
+12_09_05 10:56:18 Croom#120035381#pollard.ls
+12_09_05 10:56:18 masmkdir of C
+12_09_05 10:56:24 tar and put of Croom#120035381#pollard for archive1
+12_09_05 10:56:24 tar and put of of Croom#120035381#pollard.ls for archive1
+12_09_05 10:56:25 tar and put of Croom#120035381#pollard for archive2
+12_09_05 10:56:26 tar and put of Croom#120035381#pollard.ls for archive2
+12_09_05 10:56:27 tar and put of Croom#120035381#pollard for archive3
+12_09_05 10:56:28 tar and put of Croom#120035381#pollard.ls for archive3
+12_09_05 10:56:28 /Volumes/Repository/_unprocessed/Croom#120035381#pollard  /Volumes/Repository/currentRepository/C/Croom#120035381#pollard for archive3
+12_09_05 10:56:28 processing Fogarty|120035073|pollard
+12_09_05 10:56:28 j: fogarty#120035073#pollard
+12_09_05 10:56:28 firstLetter: F
+12_09_05 10:56:28 j: ogarty#120035073#pollard
+12_09_05 10:56:28 old dir /Volumes/Repository/_unprocessed/Fogarty#120035073#pollard
+12_09_05 10:56:28 reposidtory dir F
+12_09_05 10:56:28 fullpath /Volumes/Repository/currentRepository/F/Fogarty#120035073#pollard
+12_09_05 10:56:28 F
+12_09_05 10:56:28 Fogarty#120035073#pollard.tar.gz
+12_09_05 10:56:28 Fogarty#120035073#pollard.ls
+12_09_05 10:56:28 masmkdir of F
+12_09_05 10:56:34 tar and put of Fogarty#120035073#pollard for archive1
+12_09_05 10:56:34 tar and put of of Fogarty#120035073#pollard.ls for archive1
+12_09_05 10:56:36 tar and put of Fogarty#120035073#pollard for archive2
+12_09_05 10:56:37 tar and put of Fogarty#120035073#pollard.ls for archive2
+12_09_05 10:56:38 tar and put of Fogarty#120035073#pollard for archive3
+12_09_05 10:56:39 tar and put of Fogarty#120035073#pollard.ls for archive3
+12_09_05 10:56:39 /Volumes/Repository/_unprocessed/Fogarty#120035073#pollard  /Volumes/Repository/currentRepository/F/Fogarty#120035073#pollard for archive3
+12_09_05 10:56:39 processing Fogarty|120035182|pollard
+12_09_05 10:56:39 j: fogarty#120035182#pollard
+12_09_05 10:56:39 firstLetter: F
+12_09_05 10:56:39 j: ogarty#120035182#pollard
+12_09_05 10:56:39 old dir /Volumes/Repository/_unprocessed/Fogarty#120035182#pollard
+12_09_05 10:56:39 reposidtory dir F
+12_09_05 10:56:39 fullpath /Volumes/Repository/currentRepository/F/Fogarty#120035182#pollard
+12_09_05 10:56:39 F
+12_09_05 10:56:39 Fogarty#120035182#pollard.tar.gz
+12_09_05 10:56:39 Fogarty#120035182#pollard.ls
+12_09_05 10:56:39 masmkdir of F
+12_09_05 10:56:45 tar and put of Fogarty#120035182#pollard for archive1
+12_09_05 10:56:46 tar and put of of Fogarty#120035182#pollard.ls for archive1
+12_09_05 10:56:48 tar and put of Fogarty#120035182#pollard for archive2
+12_09_05 10:56:48 tar and put of Fogarty#120035182#pollard.ls for archive2
+12_09_05 10:56:52 tar and put of Fogarty#120035182#pollard for archive3
+12_09_05 10:56:52 tar and put of Fogarty#120035182#pollard.ls for archive3
+12_09_05 10:56:52 /Volumes/Repository/_unprocessed/Fogarty#120035182#pollard  /Volumes/Repository/currentRepository/F/Fogarty#120035182#pollard for archive3
+12_09_05 10:56:52 processing Nielsen#120034669#husch
+12_09_05 10:56:52 j: nielsen#120034669#husch
+12_09_05 10:56:53 firstLetter: N
+12_09_05 10:56:53 j: ielsen#120034669#husch
+12_09_05 10:56:53 old dir /Volumes/Repository/_unprocessed/Nielsen#120034669#husch
+12_09_05 10:56:53 reposidtory dir N
+12_09_05 10:56:53 fullpath /Volumes/Repository/currentRepository/N/Nielsen#120034669#husch
+12_09_05 10:56:53 N
+12_09_05 10:56:53 Nielsen#120034669#husch.tar.gz
+12_09_05 10:56:53 Nielsen#120034669#husch.ls
+12_09_05 10:56:53 masmkdir of N
+12_09_05 10:57:00 tar and put of Nielsen#120034669#husch for archive1
+12_09_05 10:57:00 tar and put of of Nielsen#120034669#husch.ls for archive1
+12_09_05 10:57:03 tar and put of Nielsen#120034669#husch for archive2
+12_09_05 10:57:03 tar and put of Nielsen#120034669#husch.ls for archive2
+12_09_05 10:57:07 tar and put of Nielsen#120034669#husch for archive3
+12_09_05 10:57:07 tar and put of Nielsen#120034669#husch.ls for archive3
+12_09_05 10:57:07 /Volumes/Repository/_unprocessed/Nielsen#120034669#husch  /Volumes/Repository/currentRepository/N/Nielsen#120034669#husch for archive3
+12_09_05 10:57:07 processing Nielsen#120034677#Husch
+12_09_05 10:57:07 j: nielsen#120034677#husch
+12_09_05 10:57:07 firstLetter: N
+12_09_05 10:57:07 j: ielsen#120034677#husch
+12_09_05 10:57:07 old dir /Volumes/Repository/_unprocessed/Nielsen#120034677#husch
+12_09_05 10:57:07 reposidtory dir N
+12_09_05 10:57:07 fullpath /Volumes/Repository/currentRepository/N/Nielsen#120034677#husch
+12_09_05 10:57:07 N
+12_09_05 10:57:07 Nielsen#120034677#husch.tar.gz
+12_09_05 10:57:07 Nielsen#120034677#husch.ls
+12_09_05 10:57:07 masmkdir of N
+12_09_05 10:57:14 tar and put of Nielsen#120034677#husch for archive1
+12_09_05 10:57:14 tar and put of of Nielsen#120034677#husch.ls for archive1
+12_09_05 10:57:17 tar and put of Nielsen#120034677#husch for archive2
+12_09_05 10:57:18 tar and put of Nielsen#120034677#husch.ls for archive2
+12_09_05 10:57:20 tar and put of Nielsen#120034677#husch for archive3
+12_09_05 10:57:21 tar and put of Nielsen#120034677#husch.ls for archive3
+12_09_05 10:57:21 /Volumes/Repository/_unprocessed/Nielsen#120034677#husch  /Volumes/Repository/currentRepository/N/Nielsen#120034677#husch for archive3
+12_09_05 10:57:21 processing Nielsen#120034865#Husch
+12_09_05 10:57:21 j: nielsen#120034865#husch
+12_09_05 10:57:21 firstLetter: N
+12_09_05 10:57:21 j: ielsen#120034865#husch
+12_09_05 10:57:21 old dir /Volumes/Repository/_unprocessed/Nielsen#120034865#husch
+12_09_05 10:57:21 reposidtory dir N
+12_09_05 10:57:21 fullpath /Volumes/Repository/currentRepository/N/Nielsen#120034865#husch
+12_09_05 10:57:21 N
+12_09_05 10:57:21 Nielsen#120034865#husch.tar.gz
+12_09_05 10:57:21 Nielsen#120034865#husch.ls
+12_09_05 10:57:21 masmkdir of N
+12_09_05 10:57:29 tar and put of Nielsen#120034865#husch for archive1
+12_09_05 10:57:29 tar and put of of Nielsen#120034865#husch.ls for archive1
+12_09_05 10:57:33 tar and put of Nielsen#120034865#husch for archive2
+12_09_05 10:57:34 tar and put of Nielsen#120034865#husch.ls for archive2
+12_09_05 10:57:38 tar and put of Nielsen#120034865#husch for archive3
+12_09_05 10:57:38 tar and put of Nielsen#120034865#husch.ls for archive3
+12_09_05 10:57:38 /Volumes/Repository/_unprocessed/Nielsen#120034865#husch  /Volumes/Repository/currentRepository/N/Nielsen#120034865#husch for archive3
+12_09_05 10:57:38 processing Nielsen#120034966#Husch
+12_09_05 10:57:38 j: nielsen#120034966#husch
+12_09_05 10:57:38 firstLetter: N
+12_09_05 10:57:38 j: ielsen#120034966#husch
+12_09_05 10:57:38 old dir /Volumes/Repository/_unprocessed/Nielsen#120034966#husch
+12_09_05 10:57:38 reposidtory dir N
+12_09_05 10:57:38 fullpath /Volumes/Repository/currentRepository/N/Nielsen#120034966#husch
+12_09_05 10:57:38 N
+12_09_05 10:57:38 Nielsen#120034966#husch.tar.gz
+12_09_05 10:57:38 Nielsen#120034966#husch.ls
+12_09_05 10:57:38 masmkdir of N
+12_09_05 10:57:45 tar and put of Nielsen#120034966#husch for archive1
+12_09_05 10:57:46 tar and put of of Nielsen#120034966#husch.ls for archive1
+12_09_05 10:57:50 tar and put of Nielsen#120034966#husch for archive2
+12_09_05 10:57:50 tar and put of Nielsen#120034966#husch.ls for archive2
+12_09_05 10:57:53 tar and put of Nielsen#120034966#husch for archive3
+12_09_05 10:57:54 tar and put of Nielsen#120034966#husch.ls for archive3
+12_09_05 10:57:54 /Volumes/Repository/_unprocessed/Nielsen#120034966#husch  /Volumes/Repository/currentRepository/N/Nielsen#120034966#husch for archive3
+12_09_05 10:57:54 processing Nielson#120034602#Husch
+12_09_05 10:57:54 j: nielson#120034602#husch
+12_09_05 10:57:54 firstLetter: N
+12_09_05 10:57:54 j: ielson#120034602#husch
+12_09_05 10:57:54 old dir /Volumes/Repository/_unprocessed/Nielson#120034602#husch
+12_09_05 10:57:54 reposidtory dir N
+12_09_05 10:57:54 fullpath /Volumes/Repository/currentRepository/N/Nielson#120034602#husch
+12_09_05 10:57:54 N
+12_09_05 10:57:54 Nielson#120034602#husch.tar.gz
+12_09_05 10:57:54 Nielson#120034602#husch.ls
+12_09_05 10:57:54 masmkdir of N
+12_09_05 10:57:59 tar and put of Nielson#120034602#husch for archive1
+12_09_05 10:57:59 tar and put of of Nielson#120034602#husch.ls for archive1
+12_09_05 10:58:00 tar and put of Nielson#120034602#husch for archive2
+12_09_05 10:58:01 tar and put of Nielson#120034602#husch.ls for archive2
+12_09_05 10:58:02 tar and put of Nielson#120034602#husch for archive3
+12_09_05 10:58:03 tar and put of Nielson#120034602#husch.ls for archive3
+12_09_05 10:58:03 /Volumes/Repository/_unprocessed/Nielson#120034602#husch  /Volumes/Repository/currentRepository/N/Nielson#120034602#husch for archive3
+12_09_05 10:58:03 processing O'Neill#120035128#Husch
+12_09_05 10:58:03 j: o'neill#120035128#husch
+12_09_05 10:58:03 firstLetter: O
+12_09_05 10:58:03 j: 'neill#120035128#husch
+12_09_05 10:58:03 old dir /Volumes/Repository/_unprocessed/O'neill#120035128#husch
+12_09_05 10:58:03 reposidtory dir O
+12_09_05 10:58:03 fullpath /Volumes/Repository/currentRepository/O/O'neill#120035128#husch
+12_09_05 10:58:03 O
+12_09_05 10:58:03 O'neill#120035128#husch.tar.gz
+12_09_05 10:58:03 O'neill#120035128#husch.ls
+12_09_05 10:58:03 masmkdir of O
+12_09_05 10:58:12 tar and put of O'neill#120035128#husch for archive1
+12_09_05 10:58:13 tar and put of of O'neill#120035128#husch.ls for archive1
+12_09_05 10:58:20 tar and put of O'neill#120035128#husch for archive2
+12_09_05 10:58:20 tar and put of O'neill#120035128#husch.ls for archive2
+12_09_05 10:58:26 tar and put of O'neill#120035128#husch for archive3
+12_09_05 10:58:26 tar and put of O'neill#120035128#husch.ls for archive3
+12_09_05 10:58:26 /Volumes/Repository/_unprocessed/O'neill#120035128#husch  /Volumes/Repository/currentRepository/O/O'neill#120035128#husch for archive3
+12_09_05 10:58:26 processing O'Neill#120035199#Husch
+12_09_05 10:58:26 j: o'neill#120035199#husch
+12_09_05 10:58:26 firstLetter: O
+12_09_05 10:58:26 j: 'neill#120035199#husch
+12_09_05 10:58:26 old dir /Volumes/Repository/_unprocessed/O'neill#120035199#husch
+12_09_05 10:58:26 reposidtory dir O
+12_09_05 10:58:26 fullpath /Volumes/Repository/currentRepository/O/O'neill#120035199#husch
+12_09_05 10:58:26 O
+12_09_05 10:58:26 O'neill#120035199#husch.tar.gz
+12_09_05 10:58:26 O'neill#120035199#husch.ls
+12_09_05 10:58:26 masmkdir of O
+12_09_05 10:58:34 tar and put of O'neill#120035199#husch for archive1
+12_09_05 10:58:35 tar and put of of O'neill#120035199#husch.ls for archive1
+12_09_05 10:58:39 tar and put of O'neill#120035199#husch for archive2
+12_09_05 10:58:39 tar and put of O'neill#120035199#husch.ls for archive2
+12_09_05 10:58:44 tar and put of O'neill#120035199#husch for archive3
+12_09_05 10:58:44 tar and put of O'neill#120035199#husch.ls for archive3
+12_09_05 10:58:44 /Volumes/Repository/_unprocessed/O'neill#120035199#husch  /Volumes/Repository/currentRepository/O/O'neill#120035199#husch for archive3
+12_09_05 10:58:44 processing O'Neill#120035273#Husch
+12_09_05 10:58:44 j: o'neill#120035273#husch
+12_09_05 10:58:44 firstLetter: O
+12_09_05 10:58:44 j: 'neill#120035273#husch
+12_09_05 10:58:44 old dir /Volumes/Repository/_unprocessed/O'neill#120035273#husch
+12_09_05 10:58:44 reposidtory dir O
+12_09_05 10:58:44 fullpath /Volumes/Repository/currentRepository/O/O'neill#120035273#husch
+12_09_05 10:58:44 O
+12_09_05 10:58:44 O'neill#120035273#husch.tar.gz
+12_09_05 10:58:44 O'neill#120035273#husch.ls
+12_09_05 10:58:44 masmkdir of O
+12_09_05 10:58:52 tar and put of O'neill#120035273#husch for archive1
+12_09_05 10:58:53 tar and put of of O'neill#120035273#husch.ls for archive1
+12_09_05 10:58:58 tar and put of O'neill#120035273#husch for archive2
+12_09_05 10:58:58 tar and put of O'neill#120035273#husch.ls for archive2
+12_09_05 10:59:03 tar and put of O'neill#120035273#husch for archive3
+12_09_05 10:59:04 tar and put of O'neill#120035273#husch.ls for archive3
+12_09_05 10:59:04 /Volumes/Repository/_unprocessed/O'neill#120035273#husch  /Volumes/Repository/currentRepository/O/O'neill#120035273#husch for archive3
+12_09_05 10:59:04 processing O'Neill#120035379#Husch
+12_09_05 10:59:04 j: o'neill#120035379#husch
+12_09_05 10:59:04 firstLetter: O
+12_09_05 10:59:04 j: 'neill#120035379#husch
+12_09_05 10:59:04 old dir /Volumes/Repository/_unprocessed/O'neill#120035379#husch
+12_09_05 10:59:04 reposidtory dir O
+12_09_05 10:59:04 fullpath /Volumes/Repository/currentRepository/O/O'neill#120035379#husch
+12_09_05 10:59:04 O
+12_09_05 10:59:04 O'neill#120035379#husch.tar.gz
+12_09_05 10:59:04 O'neill#120035379#husch.ls
+12_09_05 10:59:04 masmkdir of O
+12_09_05 10:59:12 tar and put of O'neill#120035379#husch for archive1
+12_09_05 10:59:12 tar and put of of O'neill#120035379#husch.ls for archive1
+12_09_05 10:59:17 tar and put of O'neill#120035379#husch for archive2
+12_09_05 10:59:18 tar and put of O'neill#120035379#husch.ls for archive2
+12_09_05 10:59:23 tar and put of O'neill#120035379#husch for archive3
+12_09_05 10:59:23 tar and put of O'neill#120035379#husch.ls for archive3
+12_09_05 10:59:23 /Volumes/Repository/_unprocessed/O'neill#120035379#husch  /Volumes/Repository/currentRepository/O/O'neill#120035379#husch for archive3
+12_09_05 10:59:23 processing O'Neill#120035434#Husch
+12_09_05 10:59:23 j: o'neill#120035434#husch
+12_09_05 10:59:23 firstLetter: O
+12_09_05 10:59:23 j: 'neill#120035434#husch
+12_09_05 10:59:23 old dir /Volumes/Repository/_unprocessed/O'neill#120035434#husch
+12_09_05 10:59:23 reposidtory dir O
+12_09_05 10:59:23 fullpath /Volumes/Repository/currentRepository/O/O'neill#120035434#husch
+12_09_05 10:59:23 O
+12_09_05 10:59:23 O'neill#120035434#husch.tar.gz
+12_09_05 10:59:23 O'neill#120035434#husch.ls
+12_09_05 10:59:23 masmkdir of O
+12_09_05 10:59:33 tar and put of O'neill#120035434#husch for archive1
+12_09_05 10:59:34 tar and put of of O'neill#120035434#husch.ls for archive1
+12_09_05 10:59:40 tar and put of O'neill#120035434#husch for archive2
+12_09_05 10:59:41 tar and put of O'neill#120035434#husch.ls for archive2
+12_09_05 10:59:47 tar and put of O'neill#120035434#husch for archive3
+12_09_05 10:59:48 tar and put of O'neill#120035434#husch.ls for archive3
+12_09_05 10:59:48 /Volumes/Repository/_unprocessed/O'neill#120035434#husch  /Volumes/Repository/currentRepository/O/O'neill#120035434#husch for archive3
+12_09_05 10:59:48 processing O'Neill#120035470#Husch
+12_09_05 10:59:48 j: o'neill#120035470#husch
+12_09_05 10:59:48 firstLetter: O
+12_09_05 10:59:48 j: 'neill#120035470#husch
+12_09_05 10:59:48 old dir /Volumes/Repository/_unprocessed/O'neill#120035470#husch
+12_09_05 10:59:48 reposidtory dir O
+12_09_05 10:59:48 fullpath /Volumes/Repository/currentRepository/O/O'neill#120035470#husch
+12_09_05 10:59:48 O
+12_09_05 10:59:48 O'neill#120035470#husch.tar.gz
+12_09_05 10:59:48 O'neill#120035470#husch.ls
+12_09_05 10:59:48 masmkdir of O
+12_09_05 10:59:57 tar and put of O'neill#120035470#husch for archive1
+12_09_05 10:59:57 tar and put of of O'neill#120035470#husch.ls for archive1
+12_09_05 11:00:02 tar and put of O'neill#120035470#husch for archive2
+12_09_05 11:00:02 tar and put of O'neill#120035470#husch.ls for archive2
+12_09_05 11:00:07 tar and put of O'neill#120035470#husch for archive3
+12_09_05 11:00:08 tar and put of O'neill#120035470#husch.ls for archive3
+12_09_05 11:00:08 /Volumes/Repository/_unprocessed/O'neill#120035470#husch  /Volumes/Repository/currentRepository/O/O'neill#120035470#husch for archive3
+12_09_05 11:00:08 processing O'Neill#120035615#Husch
+12_09_05 11:00:08 j: o'neill#120035615#husch
+12_09_05 11:00:08 firstLetter: O
+12_09_05 11:00:08 j: 'neill#120035615#husch
+12_09_05 11:00:08 old dir /Volumes/Repository/_unprocessed/O'neill#120035615#husch
+12_09_05 11:00:08 reposidtory dir O
+12_09_05 11:00:08 fullpath /Volumes/Repository/currentRepository/O/O'neill#120035615#husch
+12_09_05 11:00:08 O
+12_09_05 11:00:08 O'neill#120035615#husch.tar.gz
+12_09_05 11:00:08 O'neill#120035615#husch.ls
+12_09_05 11:00:08 masmkdir of O
+12_09_05 11:00:18 tar and put of O'neill#120035615#husch for archive1
+12_09_05 11:00:18 tar and put of of O'neill#120035615#husch.ls for archive1
+12_09_05 11:00:24 tar and put of O'neill#120035615#husch for archive2
+12_09_05 11:00:25 tar and put of O'neill#120035615#husch.ls for archive2
+12_09_05 11:00:31 tar and put of O'neill#120035615#husch for archive3
+12_09_05 11:00:31 tar and put of O'neill#120035615#husch.ls for archive3
+12_09_05 11:00:31 /Volumes/Repository/_unprocessed/O'neill#120035615#husch  /Volumes/Repository/currentRepository/O/O'neill#120035615#husch for archive3
+12_09_05 11:00:31 processing ONeill#120034363#Husch
+12_09_05 11:00:31 j: oneill#120034363#husch
+12_09_05 11:00:31 firstLetter: O
+12_09_05 11:00:31 j: neill#120034363#husch
+12_09_05 11:00:31 old dir /Volumes/Repository/_unprocessed/Oneill#120034363#husch
+12_09_05 11:00:31 reposidtory dir O
+12_09_05 11:00:31 fullpath /Volumes/Repository/currentRepository/O/Oneill#120034363#husch
+12_09_05 11:00:31 O
+12_09_05 11:00:31 Oneill#120034363#husch.tar.gz
+12_09_05 11:00:31 Oneill#120034363#husch.ls
+12_09_05 11:00:31 masmkdir of O
+12_09_05 11:00:44 tar and put of Oneill#120034363#husch for archive1
+12_09_05 11:00:44 tar and put of of Oneill#120034363#husch.ls for archive1
+12_09_05 11:00:53 tar and put of Oneill#120034363#husch for archive2
+12_09_05 11:00:54 tar and put of Oneill#120034363#husch.ls for archive2
+12_09_05 11:01:02 tar and put of Oneill#120034363#husch for archive3
+12_09_05 11:01:02 tar and put of Oneill#120034363#husch.ls for archive3
+12_09_05 11:01:02 /Volumes/Repository/_unprocessed/Oneill#120034363#husch  /Volumes/Repository/currentRepository/O/Oneill#120034363#husch for archive3
+12_09_05 11:01:02 processing ONeill#120034365#Husch
+12_09_05 11:01:02 j: oneill#120034365#husch
+12_09_05 11:01:02 firstLetter: O
+12_09_05 11:01:02 j: neill#120034365#husch
+12_09_05 11:01:02 old dir /Volumes/Repository/_unprocessed/Oneill#120034365#husch
+12_09_05 11:01:02 reposidtory dir O
+12_09_05 11:01:02 fullpath /Volumes/Repository/currentRepository/O/Oneill#120034365#husch
+12_09_05 11:01:02 O
+12_09_05 11:01:02 Oneill#120034365#husch.tar.gz
+12_09_05 11:01:02 Oneill#120034365#husch.ls
+12_09_05 11:01:02 masmkdir of O
+12_09_05 11:01:23 tar and put of Oneill#120034365#husch for archive1
+12_09_05 11:01:23 tar and put of of Oneill#120034365#husch.ls for archive1
+12_09_05 11:01:39 tar and put of Oneill#120034365#husch for archive2
+12_09_05 11:01:39 tar and put of Oneill#120034365#husch.ls for archive2
+12_09_05 11:01:55 tar and put of Oneill#120034365#husch for archive3
+12_09_05 11:01:55 tar and put of Oneill#120034365#husch.ls for archive3
+12_09_05 11:01:55 /Volumes/Repository/_unprocessed/Oneill#120034365#husch  /Volumes/Repository/currentRepository/O/Oneill#120034365#husch for archive3
+12_09_05 11:01:55 processing ONeill#120034371#Husch
+12_09_05 11:01:55 j: oneill#120034371#husch
+12_09_05 11:01:55 firstLetter: O
+12_09_05 11:01:55 j: neill#120034371#husch
+12_09_05 11:01:55 old dir /Volumes/Repository/_unprocessed/Oneill#120034371#husch
+12_09_05 11:01:55 reposidtory dir O
+12_09_05 11:01:55 fullpath /Volumes/Repository/currentRepository/O/Oneill#120034371#husch
+12_09_05 11:01:55 O
+12_09_05 11:01:55 Oneill#120034371#husch.tar.gz
+12_09_05 11:01:55 Oneill#120034371#husch.ls
+12_09_05 11:01:55 masmkdir of O
+12_09_05 11:02:20 tar and put of Oneill#120034371#husch for archive1
+12_09_05 11:02:21 tar and put of of Oneill#120034371#husch.ls for archive1
+12_09_05 11:02:40 tar and put of Oneill#120034371#husch for archive2
+12_09_05 11:02:40 tar and put of Oneill#120034371#husch.ls for archive2
+12_09_05 11:02:59 tar and put of Oneill#120034371#husch for archive3
+12_09_05 11:02:59 tar and put of Oneill#120034371#husch.ls for archive3
+12_09_05 11:02:59 /Volumes/Repository/_unprocessed/Oneill#120034371#husch  /Volumes/Repository/currentRepository/O/Oneill#120034371#husch for archive3
+12_09_05 11:02:59 processing ONeill#120035044#Husch
+12_09_05 11:02:59 j: oneill#120035044#husch
+12_09_05 11:02:59 firstLetter: O
+12_09_05 11:02:59 j: neill#120035044#husch
+12_09_05 11:02:59 old dir /Volumes/Repository/_unprocessed/Oneill#120035044#husch
+12_09_05 11:02:59 reposidtory dir O
+12_09_05 11:02:59 fullpath /Volumes/Repository/currentRepository/O/Oneill#120035044#husch
+12_09_05 11:02:59 O
+12_09_05 11:02:59 Oneill#120035044#husch.tar.gz
+12_09_05 11:02:59 Oneill#120035044#husch.ls
+12_09_05 11:02:59 masmkdir of O
+12_09_05 11:04:29 tar and put of Oneill#120035044#husch for archive1
+12_09_05 11:04:30 tar and put of of Oneill#120035044#husch.ls for archive1
+12_09_05 11:06:02 tar and put of Oneill#120035044#husch for archive2
+12_09_05 11:06:02 tar and put of Oneill#120035044#husch.ls for archive2
+12_09_05 11:07:29 tar and put of Oneill#120035044#husch for archive3
+12_09_05 11:07:30 tar and put of Oneill#120035044#husch.ls for archive3
+12_09_05 11:07:30 /Volumes/Repository/_unprocessed/Oneill#120035044#husch  /Volumes/Repository/currentRepository/O/Oneill#120035044#husch for archive3
+12_09_05 11:07:30 processing Oneill#120034241#Husch
+12_09_05 11:07:30 j: oneill#120034241#husch
+12_09_05 11:07:30 firstLetter: O
+12_09_05 11:07:30 j: neill#120034241#husch
+12_09_05 11:07:30 old dir /Volumes/Repository/_unprocessed/Oneill#120034241#husch
+12_09_05 11:07:30 reposidtory dir O
+12_09_05 11:07:30 fullpath /Volumes/Repository/currentRepository/O/Oneill#120034241#husch
+12_09_05 11:07:30 O
+12_09_05 11:07:30 Oneill#120034241#husch.tar.gz
+12_09_05 11:07:30 Oneill#120034241#husch.ls
+12_09_05 11:07:30 masmkdir of O
+12_09_05 11:07:44 tar and put of Oneill#120034241#husch for archive1
+12_09_05 11:07:44 tar and put of of Oneill#120034241#husch.ls for archive1
+12_09_05 11:07:54 tar and put of Oneill#120034241#husch for archive2
+12_09_05 11:07:55 tar and put of Oneill#120034241#husch.ls for archive2
+12_09_05 11:08:04 tar and put of Oneill#120034241#husch for archive3
+12_09_05 11:08:05 tar and put of Oneill#120034241#husch.ls for archive3
+12_09_05 11:08:05 /Volumes/Repository/_unprocessed/Oneill#120034241#husch  /Volumes/Repository/currentRepository/O/Oneill#120034241#husch for archive3
+12_09_05 11:08:05 processing Oneill#120034364#Husch
+12_09_05 11:08:05 j: oneill#120034364#husch
+12_09_05 11:08:05 firstLetter: O
+12_09_05 11:08:05 j: neill#120034364#husch
+12_09_05 11:08:05 old dir /Volumes/Repository/_unprocessed/Oneill#120034364#husch
+12_09_05 11:08:05 reposidtory dir O
+12_09_05 11:08:05 fullpath /Volumes/Repository/currentRepository/O/Oneill#120034364#husch
+12_09_05 11:08:05 O
+12_09_05 11:08:05 Oneill#120034364#husch.tar.gz
+12_09_05 11:08:05 Oneill#120034364#husch.ls
+12_09_05 11:08:05 masmkdir of O
+12_09_05 11:08:10 tar and put of Oneill#120034364#husch for archive1
+12_09_05 11:08:11 tar and put of of Oneill#120034364#husch.ls for archive1
+12_09_05 11:08:13 tar and put of Oneill#120034364#husch for archive2
+12_09_05 11:08:13 tar and put of Oneill#120034364#husch.ls for archive2
+12_09_05 11:08:15 tar and put of Oneill#120034364#husch for archive3
+12_09_05 11:08:15 tar and put of Oneill#120034364#husch.ls for archive3
+12_09_05 11:08:15 /Volumes/Repository/_unprocessed/Oneill#120034364#husch  /Volumes/Repository/currentRepository/O/Oneill#120034364#husch for archive3
+12_09_05 11:08:15 processing Oneill#120034372#Husch
+12_09_05 11:08:15 j: oneill#120034372#husch
+12_09_05 11:08:15 firstLetter: O
+12_09_05 11:08:15 j: neill#120034372#husch
+12_09_05 11:08:15 old dir /Volumes/Repository/_unprocessed/Oneill#120034372#husch
+12_09_05 11:08:15 reposidtory dir O
+12_09_05 11:08:15 fullpath /Volumes/Repository/currentRepository/O/Oneill#120034372#husch
+12_09_05 11:08:15 O
+12_09_05 11:08:15 Oneill#120034372#husch.tar.gz
+12_09_05 11:08:15 Oneill#120034372#husch.ls
+12_09_05 11:08:15 masmkdir of O
+12_09_05 11:08:39 tar and put of Oneill#120034372#husch for archive1
+12_09_05 11:08:39 tar and put of of Oneill#120034372#husch.ls for archive1
+12_09_05 11:08:58 tar and put of Oneill#120034372#husch for archive2
+12_09_05 11:08:58 tar and put of Oneill#120034372#husch.ls for archive2
+12_09_05 11:09:17 tar and put of Oneill#120034372#husch for archive3
+12_09_05 11:09:19 tar and put of Oneill#120034372#husch.ls for archive3
+12_09_05 11:09:19 /Volumes/Repository/_unprocessed/Oneill#120034372#husch  /Volumes/Repository/currentRepository/O/Oneill#120034372#husch for archive3
+12_09_05 11:09:19 processing Owens|120034761|pollard
+12_09_05 11:09:19 j: owens#120034761#pollard
+12_09_05 11:09:19 firstLetter: O
+12_09_05 11:09:19 j: wens#120034761#pollard
+12_09_05 11:09:19 old dir /Volumes/Repository/_unprocessed/Owens#120034761#pollard
+12_09_05 11:09:19 reposidtory dir O
+12_09_05 11:09:19 fullpath /Volumes/Repository/currentRepository/O/Owens#120034761#pollard
+12_09_05 11:09:19 O
+12_09_05 11:09:19 Owens#120034761#pollard.tar.gz
+12_09_05 11:09:19 Owens#120034761#pollard.ls
+12_09_05 11:09:19 masmkdir of O
+12_09_05 11:09:36 tar and put of Owens#120034761#pollard for archive1
+12_09_05 11:09:36 tar and put of of Owens#120034761#pollard.ls for archive1
+12_09_05 11:09:49 tar and put of Owens#120034761#pollard for archive2
+12_09_05 11:09:50 tar and put of Owens#120034761#pollard.ls for archive2
+12_09_05 11:10:02 tar and put of Owens#120034761#pollard for archive3
+12_09_05 11:10:03 tar and put of Owens#120034761#pollard.ls for archive3
+12_09_05 11:10:03 /Volumes/Repository/_unprocessed/Owens#120034761#pollard  /Volumes/Repository/currentRepository/O/Owens#120034761#pollard for archive3
+12_09_05 11:10:03 processing Owens|120034903|pollard
+12_09_05 11:10:03 j: owens#120034903#pollard
+12_09_05 11:10:03 firstLetter: O
+12_09_05 11:10:03 j: wens#120034903#pollard
+12_09_05 11:10:03 old dir /Volumes/Repository/_unprocessed/Owens#120034903#pollard
+12_09_05 11:10:03 reposidtory dir O
+12_09_05 11:10:03 fullpath /Volumes/Repository/currentRepository/O/Owens#120034903#pollard
+12_09_05 11:10:03 O
+12_09_05 11:10:03 Owens#120034903#pollard.tar.gz
+12_09_05 11:10:03 Owens#120034903#pollard.ls
+12_09_05 11:10:03 masmkdir of O
+12_09_05 11:10:10 tar and put of Owens#120034903#pollard for archive1
+12_09_05 11:10:10 tar and put of of Owens#120034903#pollard.ls for archive1
+12_09_05 11:10:13 tar and put of Owens#120034903#pollard for archive2
+12_09_05 11:10:14 tar and put of Owens#120034903#pollard.ls for archive2
+12_09_05 11:10:17 tar and put of Owens#120034903#pollard for archive3
+12_09_05 11:10:17 tar and put of Owens#120034903#pollard.ls for archive3
+12_09_05 11:10:17 /Volumes/Repository/_unprocessed/Owens#120034903#pollard  /Volumes/Repository/currentRepository/O/Owens#120034903#pollard for archive3
+12_09_05 11:10:17 processing Vicroy|120035377|pollard
+12_09_05 11:10:17 j: vicroy#120035377#pollard
+12_09_05 11:10:17 firstLetter: V
+12_09_05 11:10:17 j: icroy#120035377#pollard
+12_09_05 11:10:17 old dir /Volumes/Repository/_unprocessed/Vicroy#120035377#pollard
+12_09_05 11:10:17 reposidtory dir V
+12_09_05 11:10:17 fullpath /Volumes/Repository/currentRepository/V/Vicroy#120035377#pollard
+12_09_05 11:10:17 V
+12_09_05 11:10:17 Vicroy#120035377#pollard.tar.gz
+12_09_05 11:10:17 Vicroy#120035377#pollard.ls
+12_09_05 11:10:17 masmkdir of V
+12_09_05 11:10:30 tar and put of Vicroy#120035377#pollard for archive1
+12_09_05 11:10:31 tar and put of of Vicroy#120035377#pollard.ls for archive1
+12_09_05 11:10:39 tar and put of Vicroy#120035377#pollard for archive2
+12_09_05 11:10:40 tar and put of Vicroy#120035377#pollard.ls for archive2
+12_09_05 11:10:48 tar and put of Vicroy#120035377#pollard for archive3
+12_09_05 11:10:49 tar and put of Vicroy#120035377#pollard.ls for archive3
+12_09_05 11:10:49 /Volumes/Repository/_unprocessed/Vicroy#120035377#pollard  /Volumes/Repository/currentRepository/V/Vicroy#120035377#pollard for archive3
+12_09_05 11:10:49 processing Wieseman|120035190|pollard
+12_09_05 11:10:49 j: wieseman#120035190#pollard
+12_09_05 11:10:49 firstLetter: W
+12_09_05 11:10:49 j: ieseman#120035190#pollard
+12_09_05 11:10:49 old dir /Volumes/Repository/_unprocessed/Wieseman#120035190#pollard
+12_09_05 11:10:49 reposidtory dir W
+12_09_05 11:10:49 fullpath /Volumes/Repository/currentRepository/W/Wieseman#120035190#pollard
+12_09_05 11:10:49 W
+12_09_05 11:10:49 Wieseman#120035190#pollard.tar.gz
+12_09_05 11:10:49 Wieseman#120035190#pollard.ls
+12_09_05 11:10:49 masmkdir of W
+12_09_05 11:11:02 tar and put of Wieseman#120035190#pollard for archive1
+12_09_05 11:11:02 tar and put of of Wieseman#120035190#pollard.ls for archive1
+12_09_05 11:11:11 tar and put of Wieseman#120035190#pollard for archive2
+12_09_05 11:11:11 tar and put of Wieseman#120035190#pollard.ls for archive2
+12_09_05 11:11:20 tar and put of Wieseman#120035190#pollard for archive3
+12_09_05 11:11:20 tar and put of Wieseman#120035190#pollard.ls for archive3
+12_09_05 11:11:20 /Volumes/Repository/_unprocessed/Wieseman#120035190#pollard  /Volumes/Repository/currentRepository/W/Wieseman#120035190#pollard for archive3
+12_09_05 11:11:20 processing Wilbur|1200352520|pollard
+12_09_05 11:11:20 j: wilbur#1200352520#pollard
+12_09_05 11:11:20 firstLetter: W
+12_09_05 11:11:20 j: ilbur#1200352520#pollard
+12_09_05 11:11:20 old dir /Volumes/Repository/_unprocessed/Wilbur#1200352520#pollard
+12_09_05 11:11:20 reposidtory dir W
+12_09_05 11:11:20 fullpath /Volumes/Repository/currentRepository/W/Wilbur#1200352520#pollard
+12_09_05 11:11:20 W
+12_09_05 11:11:20 Wilbur#1200352520#pollard.tar.gz
+12_09_05 11:11:20 Wilbur#1200352520#pollard.ls
+12_09_05 11:11:20 masmkdir of W
+12_09_05 11:11:26 tar and put of Wilbur#1200352520#pollard for archive1
+12_09_05 11:11:26 tar and put of of Wilbur#1200352520#pollard.ls for archive1
+12_09_05 11:11:28 tar and put of Wilbur#1200352520#pollard for archive2
+12_09_05 11:11:28 tar and put of Wilbur#1200352520#pollard.ls for archive2
+12_09_05 11:11:30 tar and put of Wilbur#1200352520#pollard for archive3
+12_09_05 11:11:30 tar and put of Wilbur#1200352520#pollard.ls for archive3
+12_09_05 11:11:30 /Volumes/Repository/_unprocessed/Wilbur#1200352520#pollard  /Volumes/Repository/currentRepository/W/Wilbur#1200352520#pollard for archive3
+12_09_05 11:11:30 script executed in 926 seconds
+12_09_05 11:11:30 0 minutes 26 seconds
+

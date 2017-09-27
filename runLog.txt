@@ -1,0 +1,8 @@
+10_03_25 12:09:23 Running script as root
+10_03_25 12:09:23 327 Directories to Process
+10_03_25 12:09:23 number of dir:  327
+10_03_25 12:09:23 touch files created
+10_03_25 12:09:23 trap
+10_03_25 12:09:23 find of selected directories completed
+10_03_25 12:09:34 ensure directories for processed work directories are set corretly
+10_03_25 12:09:52 finished - directories are set corretly
